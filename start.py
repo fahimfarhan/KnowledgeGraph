@@ -14,5 +14,5 @@ auth.set_access_token(atoken, asecret)
 twitterStream = Stream(auth, listener())
 # twitterStream.filter(track=["infinitywar"])
 twitterStream.filter(track=["myfirstTweet", "car", "messi", "farcry", "Bangladesh", "ronaldo", "assassinscreed",
-                            "china", "usa", "metoo"])
+                            "china", "usa", "infinitywar"])
 # twitterStream.all()
