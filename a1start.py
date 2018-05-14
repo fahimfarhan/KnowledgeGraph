@@ -1,6 +1,6 @@
 import tweepy
 from tweepy import OAuthHandler
-from twittertomongo.twimongo import StreamListener
+from twitter_to_mongo.twimongo import StreamListener
 from decouple import config
 
 

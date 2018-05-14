@@ -1,7 +1,8 @@
 # consumer key, consumer secret, access token, access secret.
-from tweepy import OAuthHandler, Stream
-from twitter.listener import listener
 from decouple import config
+from tweepy import OAuthHandler, Stream
+
+from prototype.twitter.listener import listener
 
 ckey = config('ckey')
 csecret = config('csecret')
