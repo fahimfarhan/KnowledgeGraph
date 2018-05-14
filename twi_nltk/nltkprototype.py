@@ -76,6 +76,20 @@ def find_verbs_nltk():
     return verbs
 
 
-find_nouns_nltk()
-find_verbs_nltk()
-# find_adjective_nltk()
+def find_nouns_nltk1():
+    sentence = "A quick brown fox jumped over the lazy dog and then he eats meat"
+    nouns = [token for token, pos in pos_tag(word_tokenize(sentence)) if pos.startswith('N')]
+    print(nouns)
+    return nouns
+
+
+def find_verbs_nltk1():
+    sentence = "A quick brown fox jumped over the lazy dog and then he eats meat"
+    verbs = [token for token, pos in pos_tag(word_tokenize(sentence)) if pos.startswith('V')]
+    print(verbs)
+    return verbs
+
+
+find_nouns_nltk1()
+find_verbs_nltk1()
+
