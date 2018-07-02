@@ -21,12 +21,13 @@ def mongodb_query():
 
         tweets = db.twitter_search.find({})  # select * from twitter_search
         # tweets = db.twitter_search.find(query)
-        for tw in tweets:
-            # print(str(tw['tweet_id'])+" "+str(tw.username))
-            print(tw['text'])
+        # for tw in tweets:
+            # print(str(tw['username']))
+            # print(str(tw['_id'])+str(tw['text']))
             # print(tweets)
     except Exception as x:
         print(x)
         pass
     finally:
         client.close()
+        return tweets

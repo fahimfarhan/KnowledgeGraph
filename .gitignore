@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# mine
+corpus/
+corpus_output/
+
+
 # Distribution / packaging
 .Python
 build/
