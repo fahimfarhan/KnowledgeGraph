@@ -1,0 +1,84 @@
+/*
+*  playercontext.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 15 Sept 2008
+* 
+*  $Id: playercontext.jape 0001 2008-09-27 dhaval $
+*
+*/
+Phase: playercontext
+Input:  Lookup Token Split 
+Options: control = appelt debug = true
+
+
+Macro:TEAM
+(
+ {Lookup.majorType==Team}
+)
+
+//rule identifies playernames by club/teamname where A noun name follows with "Of/of" for example, Wes Brown of Manchester United
+Rule: playercontext1
+Priority:50
+(	
+	(
+		{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		{Token.kind == punctuation, Token.category == POS}
+	 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+ 	)
+ 	|
+ 	(
+		{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		{Token.kind == punctuation, Token.subkind == dashpunct}
+	 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+ 	)
+ 	|
+ 	(
+	 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+ 	)
+): person1
+//({Token,!Token.string == "."})*
+({Token,!Split})*
+({Token.string =~ "[Oo]f"})
+(TEAM):team1
+-->  
+{
+gate.AnnotationSet personAS = (gate.AnnotationSet)bindings.get("person1");
+int start_offset=0;
+int end_offset=0;
+StringBuffer personStr = new StringBuffer();
+gate.FeatureMap features = Factory.newFeatureMap();
+if(personAS != null)
+ {
+   Iterator temp = personAS.iterator();
+   while(temp.hasNext())
+	{	gate.Annotation personAnn = (gate.Annotation)temp.next();
+		
+		start_offset = personAnn.getStartNode().getOffset().intValue();
+		end_offset = personAnn.getEndNode().getOffset().intValue();
+		String tempPersonStr = doc.getContent().toString().substring(start_offset, end_offset);
+		personStr.append(tempPersonStr);
+		personStr.append(" ");
+	}//while(temp.hasNext())
+  }//if(personAS != null)
+//We have name of the player, lets now work on getting the name of the Team
+String teamStr="";
+gate.AnnotationSet teamAS = (gate.AnnotationSet)bindings.get("team1");
+Out.println("Team size"+teamAS.size());
+start_offset=0;
+end_offset=0;
+if(teamAS != null)
+  {
+ 	    Iterator temp = teamAS.iterator();
+   		gate.Annotation teamAnn = (gate.Annotation)temp.next();
+		start_offset = teamAnn.getStartNode().getOffset().intValue();
+		end_offset = teamAnn.getEndNode().getOffset().intValue();
+		teamStr = doc.getContent().toString().substring(start_offset, end_offset);
+  }			
+//We have name of the team so lets put that in the players details
+  		features.put("name",personStr.toString());
+  		features.put("team",teamStr);
+		features.put("rule","playercontext_Not Split");
+		annotations.add(personAS.firstNode(), personAS.lastNode(), "Player",features);
+	 
+}

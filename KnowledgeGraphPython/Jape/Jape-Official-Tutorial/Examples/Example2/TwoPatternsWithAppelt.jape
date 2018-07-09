@@ -1,0 +1,18 @@
+Phase:firstpass
+Input:  Lookup Token 
+Options: control = appelt 
+//first
+//all
+//brill
+
+Rule: TwoPatternsWithAppelt
+Priority: 20
+(
+{Lookup.majorType == "Title"}
+): title
+(
+{Lookup.majorType == "Person"}
+):person
+-->
+:title.Title = {rule= "TwoPatterns" }, 
+:person.Person = {rule= "TwoPatterns" } 

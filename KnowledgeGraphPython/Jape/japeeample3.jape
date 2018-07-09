@@ -1,0 +1,23 @@
+Phase:nestedpatternphase 
+Input:  Lookup Token  
+//note that we are using Lookup and Token both insi
+de our rules. 
+Options: control = appelt  
+Rule: playerid   
+( 
+ {Token.string == "player"}   
+ {Token} 
+)   
+:temp 
+({Lookup.majorType == Person} 
+ | 
+ ( 
+  {Token.kind==word, Token.category==NNP, Token.ort
+h==upperInitial} 
+  {Token.kind==word, Token.category==NNP, Token.ort
+h==upperInitial} 
+ ) 
+)   
+:player 
+-->   
+ :player.Player= {rule = "playerid"}

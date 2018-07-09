@@ -1,0 +1,16 @@
+Phase:TokenUse
+//note that we are only using Token, so no Lookup here
+Input: Token 
+Options: control = brill 
+Rule: IPAddress 
+(
+{Token.kind == number}
+{Token.string == "."}
+{Token.kind == number}
+{Token.string == "."}
+{Token.kind == number}
+{Token.string == "."}
+{Token.kind == number}
+)
+:ipAddress -->
+:ipAddress.Address = {kind = "ipAddress"}

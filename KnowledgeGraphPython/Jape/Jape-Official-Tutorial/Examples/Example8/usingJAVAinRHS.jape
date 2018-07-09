@@ -1,0 +1,18 @@
+Phase:usingJAVAinRHS
+Input:  Lookup 
+Options: control = all 
+
+Rule: javainRHS1
+(
+ {Lookup.majorType == Team}  
+)  
+:team
+-->
+{
+gate.AnnotationSet team = (gate.AnnotationSet)bindings.get("team");
+gate.Annotation teamAnn = (gate.Annotation)team.iterator().next();
+gate.FeatureMap features = Factory.newFeatureMap();
+features.put("teamOfSport", teamAnn.getFeatures().get("minorType"));
+features.put("rule","javainRHS1");
+outputAS.add(team.firstNode(), team.lastNode(), "Team",features);
+}

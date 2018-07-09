@@ -1,0 +1,21 @@
+/*
+*  clean.jape
+*
+*
+* 
+*
+*/
+
+Phase:	Clean
+Input: FirstPerson 
+Options: control = appelt
+
+Rule:CleanTempAnnotations
+(
+ {FirstPerson}
+):temp
+-->
+{
+ gate.AnnotationSet temp = (gate.AnnotationSet)bindings.get("temp");
+ annotations.removeAll(temp);
+}
