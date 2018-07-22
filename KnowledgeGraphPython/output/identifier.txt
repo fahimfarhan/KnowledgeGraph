@@ -1,0 +1,33 @@
+------------------------------
+199   129   140   Token      Linguistics
+200   140   141   Token      :
+201   141   152   Token      shortpapers
+202   152   153   Token      ,
+204   154   159   Token      pages
+206   160   162   Token      89
+207   162   163   Token      –
+208   163   165   Token      94
+209   165   166   Token      ,
+210   166   174   Token      Portland
+211   174   175   Token      ,
+213   176   182   Token      Oregon
+214   182   183   Token      ,
+216   184   188   Token      June
+218   189   191   Token      19
+219   191   192   Token      -
+220   192   194   Token      24
+221   194   195   Token      ,
+223   196   200   Token      2011
+224   200   201   Token      .
+226   202   203   Token      c
+227   203   204   Token      ©
+228   204   208   Token      2011
+230   209   220   Token      Association
+232   221   224   Token      for
+234   225   238   Token      Computational
+236   239   250   Token      Linguistics
+238   251   255   Token      That
+239   255   256   Token      ’
+240   256   257   Token      s
+------------------------
+
