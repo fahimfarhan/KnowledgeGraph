@@ -1,0 +1,10 @@
+Phase: passone
+Input: Lookup
+Options: control brill
+Rule: Footballer
+Priority: 19                     // number barle priority ki barbe na kombe?
+(
+{Lookup.Majortype="Person"}
+):label
+-->
+:label.Sport = {rule= "Footballer" } 

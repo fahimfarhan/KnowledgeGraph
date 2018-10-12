@@ -1,0 +1,66 @@
+/*
+*  playercontext.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 10 March 2009
+* 
+*  $Id: playercontext.jape 0001 2009-03-10 dhaval $
+*
+*/
+
+Phase: playercontext
+Input:  Lookup Token Team
+Options: control = brill debug = true
+
+//rules for identifying name of the player based on Team names
+Rule: playercontext1
+Priority:50
+(    	
+ {Team}
+ {Token.string=="players"}
+)
+(
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+):player 
+-->
+:player.Player = {rule= "playercontext-playercontext1" } 
+
+Rule: playercontext2
+Priority:100
+(    	
+ {Team}
+ {Token.string=="players"}
+)
+(
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+):player1 
+{Token.string=="and"}
+(
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+):player2
+-->
+:player1.Player = {rule= "playercontext-playercontext2" } ,
+:player2.Player = {rule= "playercontext-playercontext2" } 
+
+Rule: playercontext3
+Priority:80
+(    	
+ {Team}
+ {Token.string=="players"}
+)
+(
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+):player1 
+{Token}
+(
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+):player2
+-->
+:player1.Player = {rule= "playercontext-playercontext3" } ,
+:player2.Player = {rule= "playercontext-playercontext3" } 
+
+

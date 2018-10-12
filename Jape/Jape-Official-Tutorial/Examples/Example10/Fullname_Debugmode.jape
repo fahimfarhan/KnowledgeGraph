@@ -1,0 +1,95 @@
+/*
+* Fullname_Debugmode.jape
+* @ Dhaval Thakker
+* PA Photos
+* All rights reserved
+*/
+
+Phase:	Name
+Input: FirstPerson Token Lookup  
+Options: control = appelt debug = true
+
+///////////////////////////////////////////////////////////
+Rule: 	Fullname
+
+(
+  (
+    {FirstPerson}
+  )
+  (	 
+	{Token.orth == upperInitial}
+	|
+	{Token.orth == mixedCaps} 
+  )
+)
+:person -->
+{
+ 	gate.FeatureMap features = Factory.newFeatureMap();
+ 	gate.AnnotationSet personSet = (gate.AnnotationSet)bindings.get("person");
+    
+ 	Iterator tempItr1 = personSet.iterator();
+    String personStr1 = "";
+  	int start_offset1 = 0;
+  	int end_offset1 = 0;
+ 	
+ 	int i = 0;
+  	while(tempItr1.hasNext())
+	{
+		
+		Out.prln("==========");	
+  		Out.prln("New Round"+i);		
+		gate.Annotation personAnn1 = (gate.Annotation) tempItr1.next();
+		start_offset1 = personAnn1.getStartNode().getOffset().intValue();
+		end_offset1 = personAnn1.getEndNode().getOffset().intValue();
+			
+		personStr1 = doc.getContent().toString().substring(start_offset1, end_offset1);
+		Out.prln("person in Outer Loop " +personStr1);
+							
+    	//get all firstPerson annotations that have a gender feature
+    	HashSet fNames = new HashSet();
+    	fNames.add("gender");
+    
+	    //remember that you can only use FirstPerson here because the personSet is built on it (see first line where it says,  {FirstPerson})
+	    //Remember it is not going to get all the Firstpersons but the only those that are in this iteration i.e. one at a time. This type of arrangement is useful
+	    //is when we want to assess a property of the annotation before doing anything else. And it only works when you have it mentioned already in your LHS (for example, in this case
+	    //it is "FirstPerson")
+	    gate.AnnotationSet firstPerson = personSet.get("FirstPerson",fNames);
+	    
+	    Iterator tempItr2 = firstPerson.iterator();
+	    String personStr2 = "";
+	  	int start_offset2 = 0;
+	  	int end_offset2 = 0;
+	  	
+	  	if(firstPerson != null && firstPerson.size()>0)
+	  	{
+			while(tempItr2.hasNext())
+			{		
+			  				gate.Annotation personAnn2 = (gate.Annotation) tempItr2.next();
+			  				start_offset2 = personAnn2.getStartNode().getOffset().intValue();
+							end_offset2 = personAnn2.getEndNode().getOffset().intValue();
+			  	
+							personStr2 = doc.getContent().toString().substring(start_offset2, end_offset2);
+			 				
+							Out.prln("person is (inner loop) " +personStr2);
+			  				features.put("gender", personAnn2.getFeatures().get("gender"));
+					
+			  				features.put("kind", "Fullname");
+			  				features.put("rule", "Fullname");
+							annotations.add(personSet.firstNode(), personSet.lastNode(), "Fullname",features);
+		
+							
+			} //end of while(tempItr2.hasNext())
+			
+		}
+		else
+		{
+			  				features.put("kind", "Fullname");
+			  				features.put("rule", "Fullname");
+							annotations.add(personSet.firstNode(), personSet.lastNode(), "Fullname",features);
+				
+		}
+		
+		i++;
+	}//	while(tempItr1.hasNext())	
+	
+}

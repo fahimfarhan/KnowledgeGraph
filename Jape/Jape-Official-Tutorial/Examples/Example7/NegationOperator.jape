@@ -1,0 +1,17 @@
+Phase:NegationOperator
+Input:  Lookup Token 
+//note that we are using Lookup and Token both inside our rules.
+Options: control = all 
+
+Rule: negationop
+(
+ {Lookup.majorType == "Title", !Token.string =~ "[Ss]"}  
+)  
+:TitleNotStartingWithS
+(
+{Lookup.majorType == "Person"}
+):person
+-->  
+:TitleNotStartingWithS.Title = {rule= "negationop" }, 
+:person.Person = {rule= "negationop" } 
+

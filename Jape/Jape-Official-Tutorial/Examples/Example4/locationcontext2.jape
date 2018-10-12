@@ -1,0 +1,104 @@
+/*
+*  locationcontext2.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 15 Sept 2008
+* 
+*  $Id: locationcontext2.jape 0001 2008-09-27 dhaval $
+*
+*/
+
+Phase: locationcontext2
+Input:  Lookup Token 
+Options: control = all debug = false
+
+
+//Manchester, UK
+Rule: locationcontext2
+Priority:50
+({Token.string == "at"})
+     (
+    	({Token.string =~ "[Tt]he"})?
+		(
+		 (
+	      {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		  ({Token.kind == punctuation})?
+	      {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	      ({Token.kind == punctuation})?
+	      {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		 )
+		 |
+		 (
+	      {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		  ({Token.kind == punctuation})?
+	      (
+	       {Token.kind == word, Token.category == NNP, Token.orth == allCaps}
+	       |
+	       {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	      )
+		 )
+    	 |
+		 ({Token.kind == word, Token.category == NNP, Token.orth == upperInitial})
+		)
+		({Token.string == ","})?
+		(
+			(
+			 {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+			 {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+			 {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+			)
+			|
+		    (
+			 {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+			 {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+			)
+			|
+			({Token.kind == word, Token.category == NNP, Token.orth == upperInitial})
+		)?
+    ):location
+ 
+-->  
+:location.Location = {rule= "locationcontext-locationcontext2" } 
+
+
+//rule identifies at the stadiums/circuit/golf clubs = Mixture of context1 and context2
+Rule: locationcontext3
+Priority:50
+({Token.string == "at"})
+
+(
+		({Token.string =~ "[Tt]he"})?
+    	(
+	      (
+  		 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		 	({Token.kind == punctuation, Token.subkind == dashpunct})?
+  		 	{Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		   )
+  		  |
+		  {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+		 )
+		(
+			{Token.string =~ "[Ss]tadium"}
+			|
+			{Token.string =~ "[Cc]ircuit"}
+			|
+			(
+				{Token.string =~ "[Gg]olf"}
+				({Token}{Token})?
+				{Token.string =~ "[Cc]lub"}
+			)
+			|
+			(
+			 {Token.string =~ "[Rr]acecourse"}
+			)
+			|
+			(
+			 {Token.string =~ "[Cc]lub"}
+			)
+		)
+):location
+ -->  
+:location.Location = {rule= "locationcontext-locationcontext1" } 
+
+
+
+
