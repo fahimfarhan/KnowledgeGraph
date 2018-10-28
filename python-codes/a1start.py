@@ -17,10 +17,15 @@ while (True):
         auth = OAuthHandler(ckey, csecret)
         auth.set_access_token(atoken, asecret)
 
+        WORDS = ["thenunmovie ", "QuantaMagazine","ZonePhysics",
+        "ChemistryWorld","physorg_com","CompSciFact", "NASA","newscientist",
+        "centerofmath","BdMOC","molecular","GenomeBiology","dailystarnews",
+         "Bangladesh","uk", "usa","australia" ]
+        '''
         WORDS = ["fifa", "russia", "fifaworldcup", "football", "brasil", "argentina", "spain", "portugal",
                  "germany", "myfirstTweet", "car", "cr7", "messi", "farcry", "Bangladesh", "assassinscreed",
                  "infinitywar", "avengersinfinitywar"]
-
+        '''
         # Set up the listener. The 'wait_on_rate_limit=True' is needed to help with Twitter API rate limiting.
         listener = StreamListener(api=tweepy.API(wait_on_rate_limit=True))
         streamer = tweepy.Stream(auth=auth, listener=listener)
