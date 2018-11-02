@@ -1,0 +1,14 @@
+Phase: MatchingStyles
+Input: Lookup
+Options: control = first
+
+
+Rule: Test1
+(
+ {Lookup.majorType == location}
+ ({Lookup.majorType == loc_key})?
+):match
+-->
+:match.Location = {rule=Test1}
+
+

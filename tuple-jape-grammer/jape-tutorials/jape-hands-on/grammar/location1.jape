@@ -1,0 +1,11 @@
+Phase: Location
+Input: Lookup
+Options: control = appelt
+ 
+Rule: TestTheLocation
+(
+ ({Lookup.minorType == city})+|
+ ({Lookup.minorType == country})
+):match
+-->
+:match.Location = {rule=TestTheLocation}

@@ -1,0 +1,8 @@
+Rule:University1 
+(
+    { Token.string == "University" }
+    { Token.string == "of" }
+    { Lookup.minorType == city }
+):orgName
+-->
+:orgName.Organization = {   kind = "university", rule = "University1"}

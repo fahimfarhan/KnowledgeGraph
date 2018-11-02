@@ -1,0 +1,50 @@
+/*
+*  coref.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 15 Sept 2008
+* 
+*  $Id: coref.jape 0001 2008-11-17 dhaval $
+*
+*/
+Phase: coref
+Input:  Lookup Token Split Person
+Options: control = brill debug = false
+
+
+//rule identifies at the stadiums/circuit/golf clubs = Mixture of context1 and context2
+Rule: coref
+Priority:50
+(
+ {Person.ENTITY_MENTION_TYPE == PRONOUN}	
+):pron
+-->
+
+{
+
+gate.AnnotationSet match = (gate.AnnotationSet)bindings.get("pron");
+gate.Annotation pronoun = (gate.Annotation)match.iterator().next();
+         
+//String antType = pronoun.getType();
+java.lang.Long antOffset = (java.lang.Long)pronoun.getFeatures().get("antecedent_offset");
+//gate.FeatureMap nullFeatureMap =  Factory.newFeatureMap();
+
+//gate.AnnotationSet antSet = (gate.AnnotationSet)annotations.get(antType,nullFeatureMap,antOffset);
+gate.AnnotationSet antSet = (gate.AnnotationSet)annotations.get(antOffset);
+gate.Annotation antecedent = (gate.Annotation)antSet.iterator().next(); 
+int start_offset=0;
+int end_offset=0;
+String referedEntity = "";
+if(antSet != null)
+  {
+ 	    start_offset = antecedent.getStartNode().getOffset().intValue();
+		end_offset = antecedent.getEndNode().getOffset().intValue();
+		referedEntity = doc.getContent().toString().substring(start_offset, end_offset);
+  }			
+  
+String antString = (String)antecedent.getFeatures().toString();
+String antType = antecedent.getType();
+//String antString = (String)antecedent.getFeatures().toString();
+//annotations.add(match.firstNode(), match.lastNode(), "Co-ref",(gate.FeatureMap)pronoun.getFeatures().put("antecedent_string", antString));
+pronoun.getFeatures().put("refers_to_entity", referedEntity); 
+pronoun.getFeatures().put("feature of antecedent", antString); 
+}

@@ -1,0 +1,13 @@
+Phase: Node
+Input: Token
+Options: control = appelt
+
+Rule: Node
+(
+        ({ Token.category == NNP })
+   |    ({ Token.category == NN  })
+):match
+-->
+:match.node = { rule=Node }
+
+

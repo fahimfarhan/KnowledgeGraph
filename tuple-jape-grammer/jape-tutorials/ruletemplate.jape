@@ -1,0 +1,8 @@
+Rule:Rname
+(
+    { Token.string == "University" }
+    { Token.string == "of" }
+    { Lookup.minorType==city }
+):labelName
+-->
+:labelName.attribute ={ kind = "some kind", rule = "Rname" }

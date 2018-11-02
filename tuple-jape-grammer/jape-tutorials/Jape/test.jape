@@ -1,0 +1,24 @@
+Rule: Universiy1
+(
+    {   Token.string == "University"   }
+    {   Token.string == "of"           }
+    {   LookUp.minorType == city       }
+):orgName
+-->
+:orgName.Organization = 
+{   kind="university", rule="University1"   }
+
+
+Rule:EngUni1
+(
+    {   LookUp.minorType == city        }
+    {   Token.string == "of"            }
+    {   Token.string == "Engineering"   }
+    {   Token.string == "and"           }
+    {   Token.string == "Technology"    }
+):engineeringUniName
+-->
+:engineeringUniName.Organization = {    
+    kid=="engineering-university",
+    rule = "EngUni1"
+}

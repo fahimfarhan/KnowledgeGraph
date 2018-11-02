@@ -50,20 +50,24 @@ class StreamListener(tweepy.StreamListener):
             # created = datetime.datetime.strptime(dt, '%d-%m-%Y')
             inicio = datetime.datetime.now()
             my_date = inicio.strftime('%d-%m-%Y')
+            is_checked_by_me = False
 
             # Load all of the extracted Tweet data into the variable "tweet" that will be stored into the database
             tweet = {'id': tweet_id, 'username': username, 'followers': followers, 'text': text, 'hashtags': hashtags,
-                     'language': language, 'created': created,'my_date': my_date}
+                     'language': language, 'created': created,'my_date': my_date,
+                     'is_checked_by_me':is_checked_by_me}
 
             # grab the 'created_at' data from the Tweet to use for display
             # created_at = datajson['created_at']
 
             # print out a message to the screen that we have collected a tweet
-            print("Tweet collected : " + str(tweet))
+            
 
             # insert the data into the mongoDB into a collection called twitter_search
             # if twitter_search doesn't exist, it will be created.
-            db.twitter_search.insert(tweet)
+            if language == "en":
+                print("Tweet collected : " + str(tweet))
+                db.twitter_search.insert(tweet)
         except Exception as e:
             print(e)
         finally:

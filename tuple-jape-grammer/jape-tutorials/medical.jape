@@ -1,0 +1,11 @@
+Rule:MedicalName
+(
+    {   Lookup.minorType == city }
+    {   Token.string == "Medical" }
+    {   Token.string == "College" }
+    {   Token.string == "And" }
+    {   Token.string == "Hospital" }
+)
+:medicalNamingRule
+-->
+:medicalNamingRule.organization = { kind = "medical college", rule = "MedicalName" }

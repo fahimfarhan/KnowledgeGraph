@@ -1,0 +1,56 @@
+/*
+*  locationcontext1.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 15 Sept 2008
+* 
+*  $Id: locationcontext1.jape 0001 2008-09-27 dhaval $
+*
+*/
+
+Phase: locationcontext1
+Input:  Lookup Token 
+Options: control = applet debug = false
+
+//rule identifies stadiums/circuit/golf clubs
+Rule: locationcontext1
+Priority:50
+(
+    	(
+	      (
+	  		 	 (
+	  		 	 	(
+	  		 	 	   {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	  		 	 	   |
+	  		 	 	   {Token.kind == word, Token.category == NNPS, Token.orth == upperInitial}
+	  		 	 	)
+	  		 	 	(
+	  		 	 	   {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	  		 	 	   |
+	  		 	 	   {Token.kind == word, Token.category == NNPS, Token.orth == upperInitial}
+	  		 	 	)?
+	  		 	 )
+	  		 	 (
+	  		 	 	   {Token.kind == word, Token.category == NNP, Token.orth == upperInitial}
+	  		 	 	   |
+	  		 	 	   {Token.kind == word, Token.category == NNPS, Token.orth == upperInitial}
+	  		 	 )?
+	  		 	 
+	  	   )
+  		  
+		)
+		(
+			{Token.string =~ "[Ss]tadium"}
+			|
+			{Token.string =~ "[Cc]ircuit"}
+			|
+			(
+			{Token.string =~ "[Gg]olf"}
+			({Token}{Token})?
+			{Token.string =~ "[Cc]lub"}
+			)
+			|
+			{Token.string =~ "[Aa]rena"}
+	   )
+):location
+ -->  
+:location.Location = {rule= "locationcontext1-locationcontext1" } 

@@ -1,0 +1,19 @@
+Phase: Tuple
+Input: Token
+Options: control = appelt
+
+Rule:TuplePrototype1
+(
+    
+        ({   Token.category == NNP })  :node1
+    
+        ({   Token.category == VBZ })  :edge
+    
+        ({   Token.category == NNP })  :node2
+    
+):match
+-->
+:match.tuple = {   kind="Tuple",  rule=TuplePrototype1 }
+//:node1.category = {   kind="Node",  rule=TuplePrototype1 }
+//:edge.category = {   kind="Edge",  rule=TuplePrototype1 }
+//:node2.category = {   kind="Node",  rule=TuplePrototype1 }

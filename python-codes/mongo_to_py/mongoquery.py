@@ -11,7 +11,7 @@ def mongodb_query():
     my_date = inicio.strftime('%d-%m-%Y')
 
     query = {
-        "my_date": my_date,
+        # "my_date": my_date,
         "language": "en"
         # "hashtags":"infinitywar"
     }

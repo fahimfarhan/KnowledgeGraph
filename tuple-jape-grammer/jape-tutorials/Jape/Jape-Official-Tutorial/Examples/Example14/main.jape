@@ -1,0 +1,11 @@
+/*
+*  main.jape
+*
+*/
+
+MultiPhase:	TestTheGrammars
+Phases: 
+firstname
+Fullname
+teamcontext
+clean

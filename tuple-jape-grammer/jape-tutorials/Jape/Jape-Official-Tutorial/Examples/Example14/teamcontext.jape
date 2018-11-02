@@ -1,0 +1,84 @@
+/*
+*  teamcontext1.jape
+*   
+*  Dhavalkumar Thakker, Nottingham Trent University/PA Photos 15 Sept 2008
+* 
+*  $Id: teamcontext1.jape 0001 2008-09-27 dhaval $
+*
+*/
+Phase: teamcontext
+Input:  Lookup Team Country Nationality City Fullname
+Options: control = appelt debug = false
+
+Macro:CITY
+(
+ {Lookup.majorType==City}
+ |
+ {Lookup.majorType==location,Lookup.minorType==city }
+)
+Macro:COUNTRY
+(
+ {
+ Lookup.majorType==Country
+ }
+)
+Macro:NATIONALITY
+(
+ {
+ Lookup.majorType==Nationality
+ }
+)
+
+Rule: teamcontext1
+(
+	{Team}
+	|
+	(CITY)
+	|
+	(COUNTRY)
+	|
+	(NATIONALITY)
+): team
+({Lookup.majorType == "Sports_Role"})
+({Fullname}):player
+-->  
+{
+	gate.AnnotationSet playerAS = (gate.AnnotationSet)bindings.get("player");
+	int start_offset=0;
+	int end_offset = 0;
+	String playerStr = "";
+	String teamStr = "";
+	gate.FeatureMap features = Factory.newFeatureMap();
+	Out.println("Here 1");
+	if(playerAS!=null)
+	{
+		gate.Annotation playerAnn = (gate.Annotation)playerAS.iterator().next();
+		start_offset = playerAnn.getStartNode().getOffset().intValue();
+		end_offset = playerAnn.getEndNode().getOffset().intValue();
+		playerStr = doc.getContent().toString().substring(start_offset, end_offset);
+		
+		//team
+		gate.AnnotationSet teamAS = (gate.AnnotationSet)bindings.get("team");
+		start_offset = 0;
+		end_offset = 0;
+		Out.println("Here 2");
+		if(teamAS!=null)
+		{
+			gate.Annotation teamAnn = (gate.Annotation)teamAS.iterator().next();
+			start_offset = teamAnn.getStartNode().getOffset().intValue();
+			end_offset = teamAnn.getEndNode().getOffset().intValue();
+			teamStr = doc.getContent().toString().substring(start_offset, end_offset);
+			Out.println("Here 3");
+		}
+		
+	}//if(playerAS!=null)
+	
+	if(!playerStr.equalsIgnoreCase("") && !teamStr.equalsIgnoreCase(""))
+	{
+		features.put("team",teamStr);
+		Out.println("Here 4");
+		features.put("name",playerStr);
+		features.put("rule","teamcontext-teamcontext1");
+		annotations.add(playerAS.firstNode(), playerAS.lastNode(), "Player",features);
+	}//if(!playerStr.equalIgnoreCase("") && !teamStr.equalIgnoreCase(""))
+}

@@ -1,0 +1,23 @@
+Phase:PersonMacro
+Input:  Lookup Token 
+//note that we are using Lookup and Token both inside our rules.
+Options: control = brill 
+
+Macro: PERSON
+({Lookup.majorType == Person})
+
+Rule: playerid 
+(
+ {Token.string == "player"}  
+)  
+:temp
+(PERSON
+ |
+ (
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+  {Token.kind==word, Token.category==NNP, Token.orth==upperInitial}
+ )
+)  
+:player
+-->  
+ :player.Player= {rule = "playerid"} 

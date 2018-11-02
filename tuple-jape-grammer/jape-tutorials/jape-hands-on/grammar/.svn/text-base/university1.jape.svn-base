@@ -1,0 +1,13 @@
+Phase: University
+Input: Lookup Split
+Options: control = appelt
+ 
+
+Rule: University1 
+(
+ ({Lookup.minorType == city})
+ ({Lookup.minorType == city})
+):orgName 
+-->
+:orgName.Organisation = {kind = "university", rule = "University1"}
+

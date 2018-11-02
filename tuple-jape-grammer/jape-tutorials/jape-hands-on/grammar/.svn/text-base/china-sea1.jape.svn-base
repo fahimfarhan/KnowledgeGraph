@@ -1,0 +1,44 @@
+Phase: MatchingStyles
+Input: Lookup
+Options: control = appelt
+
+
+Rule: Test1
+Priority: 100
+
+/* matches "China" + optional "sea" */
+
+(
+ {Lookup.majorType == location}
+ ({Lookup.majorType == loc_key})?
+):match
+-->
+:match.Location = {rule=Test1}
+
+
+Rule: Test2
+
+/* matches optional "China" + "sea" */
+
+(
+ ({Lookup.majorType == location})?
+ {Lookup.majorType == loc_key, Lookup.minorType == post}
+):match
+-->
+:match.Location = {rule=Test2}
+
+
+Rule: Test3
+Priority: 50
+
+/* matches optional "South" + China + sea */
+
+(
+ ({Lookup.minorType == pre})?
+  {Lookup.majorType == location}
+  {Lookup.majorType == loc_key}
+):match
+-->
+:match.Location = {rule=Test3}
+
+

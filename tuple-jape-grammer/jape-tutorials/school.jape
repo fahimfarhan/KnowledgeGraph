@@ -1,0 +1,10 @@
+Rule:CollegiateSchoolNamingRule
+(
+    { Lookup.minorType == city }
+    { Lookup.string == "Collegiate"  }
+    { Loopup.string == "School" }
+):lblSchool
+-->
+:lblSchool.organization = {
+    kind = "school", rule = "CollegiateSchoolNamingRule"
+ }

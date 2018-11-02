@@ -1,0 +1,10 @@
+Rule:GovtLab
+(
+    {   Lookup.string = "Government" }
+    {   Lookup.string = "Labortory" }
+    {   Lookup.string = "High" }
+    {   Lookup.string = "School" }
+    {   Lookup.minorType = city } 
+):lblLabName
+-->
+:lblLabName.attr = {  kind = "school" , rule = "GovtLab"  }

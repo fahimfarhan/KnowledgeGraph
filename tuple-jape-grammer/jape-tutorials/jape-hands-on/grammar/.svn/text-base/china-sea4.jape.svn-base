@@ -1,0 +1,19 @@
+Phase: MatchingStyles
+Input: Lookup
+Options: control = brill
+
+
+Rule: Test4
+Priority: 50
+
+/* matches optional "South" + China + optional "sea" */
+
+(
+ ({Lookup.minorType == pre})?
+  {Lookup.majorType == location}
+  ({Lookup.majorType == loc_key})?
+):match
+-->
+:match.Location = {rule=Test3}
+
+

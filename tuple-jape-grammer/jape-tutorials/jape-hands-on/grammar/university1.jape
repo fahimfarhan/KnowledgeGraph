@@ -1,0 +1,14 @@
+Phase: University
+Input: Token Lookup
+Options: control = appelt
+
+
+Rule: University2
+(
+ ({Token.string == "University"})
+ {Token.string == "of"}
+ ({Lookup.minorType == city}):cityName
+) :orgName 
+-->
+:cityName.Location = {kind = city},
+:orgName.Organization = {kind = university}

@@ -1,0 +1,51 @@
+/*
+* Fullname.jape
+* modified version @ Dhaval Thakker
+* PA Photos
+* All rights reserved
+*
+*/
+
+Phase:	Name
+Input: FirstPerson Token Lookup  
+Options: control = appelt debug = true
+
+///////////////////////////////////////////////////////////
+Rule: 	Fullname
+
+(
+  (
+    {FirstPerson}
+  )
+  (	 
+	{Token.orth == upperInitial}
+	|
+	{Token.orth == mixedCaps} 
+  )
+)
+:person -->
+{
+ 	gate.FeatureMap features = Factory.newFeatureMap();
+ 	gate.AnnotationSet personSet = (gate.AnnotationSet)bindings.get("person");
+    
+ 	//get all firstPerson annotations that have a gender feature
+    HashSet fNames = new HashSet();
+    fNames.add("gender");
+    
+	//remember that you can only use FirstPerson here because the personSet is built on it (see first line where it says,  {FirstPerson})
+	//Remember it is not going to get all the Firstpersons but the only those that are in this iteration i.e. one at a time. This type of arrangement is useful
+	//is when we want to assess a property of the annotation before doing anything else. And it only works when you have it mentioned already in your LHS (for example, in this case
+	//it is "FirstPerson")
+	gate.AnnotationSet firstPerson = personSet.get("FirstPerson",fNames);
+	 
+	if(firstPerson != null && firstPerson.size()>0)
+		{
+	 			gate.Annotation personAnn = (gate.Annotation) firstPerson.iterator().next();
+				features.put("gender", personAnn.getFeatures().get("gender"));
+			
+		}
+				features.put("kind", "Fullname");
+				features.put("rule", "Fullname");
+				annotations.add(personSet.firstNode(), personSet.lastNode(), "Fullname",features);
+		
+}
