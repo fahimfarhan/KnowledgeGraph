@@ -1,0 +1,12 @@
+Phase: Node
+Input: Token
+Options: control = appelt
+
+Rule: Node
+(
+        ({ Token.category == NNP })
+   |    ({ Token.category == NN  })
+):match
+-->
+:match.node = { rule=Node, kind = NOUN  , mystring = :match.Token.string }
+// :match.mystring = { string = :match.string    }, //

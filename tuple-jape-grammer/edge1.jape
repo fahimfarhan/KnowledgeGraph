@@ -1,0 +1,16 @@
+Phase: Edge
+Input: Token
+Options: control = appelt
+
+Rule: Edge
+(
+        ({ Token.category == VBZ  })
+   |    ({ Token.category == VBN  })
+   |    ({ Token.category == VBG  })
+   |    ({ Token.category == VB   })
+   |    ({ Token.category == VBD  })
+):match
+-->
+:match.edge = { rule=Edge, kind = VERB, mystring = :match.Token.string }
+
+

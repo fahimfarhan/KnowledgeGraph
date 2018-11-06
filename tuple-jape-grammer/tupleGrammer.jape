@@ -13,7 +13,7 @@ Rule:TuplePrototype1
     
 ):match
 -->
-:match.tuple = {   kind="Tuple",  rule=TuplePrototype1 }
-//:node1.category = {   kind="Node",  rule=TuplePrototype1 }
-//:edge.category = {   kind="Edge",  rule=TuplePrototype1 }
-//:node2.category = {   kind="Node",  rule=TuplePrototype1 }
+:match.tuple = {   kind="Tuple",  rule=TuplePrototype1 },
+:node1.category = {   kind="Node",  rule=TuplePrototype1 },
+:edge.category = {   kind="Edge",  rule=TuplePrototype1 },
+:node2.category = {   kind="Node",  rule=TuplePrototype1 }
