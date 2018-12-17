@@ -19,11 +19,22 @@ def mongodb_query():
         client = MongoClient(MONGO_HOST)
         db = client.twitterdb
 
-        tweets = db.twitter_search.find({})  # select * from twitter_search
-        # tweets = db.twitter_search.find(query)
-        # for tw in tweets:
-            # print(str(tw['username']))
-            # print(str(tw['_id'])+str(tw['text']))
+        # tweets = db.twitter_search.find({})  # select * from twitter_search
+        count = 0
+        tweets = db.twitter_search.find(query)
+        for tw in tweets:
+            print("{")
+            print(count)
+            count=count+1
+            print("hashtags: ", end='')
+            for j in tw['hashtags']:
+                print(""+str(j['text']) +" , ", end='')
+            print('')
+            # print(str(tw['hashtags']))
+            print("username: "+str(tw['username']))
+            print(str(tw['_id'])+" : "+str(tw['text']))
+            # print(str(tw['text']))
+            print("}")
             # print(tweets)
     except Exception as x:
         print(x)
