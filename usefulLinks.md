@@ -1,3 +1,10 @@
+## GATE developer all hands-on
+https://gate.ac.uk/wiki/training-materials-2011.html 
+
+
+## Dbpedia spotlight link:  
+https://sourceforge.net/projects/dbpedia-spotlight/files/
+
 ## Twitter data realtime read
 https://blog.wallaroolabs.com/2017/11/identifying-trending-twitter-hashtags-in-real-time-with-wallaroo/
 
