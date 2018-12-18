@@ -13,4 +13,4 @@ requests-oauthlib==0.8.0
 six==1.11.0
 sortedcontainers==2.0.4
 tweepy==3.6.0
-urllib3==1.22
+urllib3==1.23
