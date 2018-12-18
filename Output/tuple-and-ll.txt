@@ -1,0 +1,528 @@
+
+
+------------ Tuple ----------
+
+
+< Alice , loves , Bob > 
+< Bob , loves , Trudy > 
+< Trudy , Loves , Alice > 
+< cXMfpLaJSQ , has , DGR > 
+< God , gave , Bible > 
+< talk , getting , balance > 
+< ’ , s , tour > 
+< ’ , s , seat > 
+< YG , update , iKON > 
+< re , landing , spacecraft > 
+< ’ , s , interi > 
+< UK , is , football > 
+< Barnes , calls , Australia > 
+< Putin , coming , … > 
+< ’ , s , Win > 
+< USA , IS , CRITICAL > 
+< YG , update , iKON > 
+< MEMBERS , GET , SOME > 
+< Trump , deported , living > 
+< everyone , doing , Burns > 
+< man , is , risk > 
+< Morrison , believes , Planet > 
+< luck , getting , reli > 
+< egyptian , mentioned , nasa > 
+< hatred , inspired , MSM > 
+< Lester , accused , cheating > 
+< ’ , s , number > 
+< player , glittering , jumpsuit > 
+< t , afford , premium > 
+< ’ , s , policy > 
+< ’ , s , ladder > 
+< egyptian , mentioned , nasa > 
+< egyptian , mentioned , nasa > 
+< week , rated , climate > 
+< Nigga , hit , em > 
+< US , speaking , tour > 
+< ’ , s , pride > 
+< UNT , winning , Conference > 
+< Clapper , is , Australia > 
+< egyptian , mentioned , nasa > 
+< RT , 's , tweet > 
+< BREAKING—Helicopter , carrying , Vichai > 
+< ’ , s , concept > 
+< ’ , s , InSight > 
+< egyptian , mentioned , nasa > 
+< earlybiz , Had , weekend > 
+< reminder , swamp , Trump > 
+< Mattis , Begins , Rolling > 
+< analysis , showing , majority > 
+< client , is , search > 
+< ’ , s , ID > 
+< egyptian , mentioned , nasa > 
+< Hennessy , accuses , Nicki > 
+< Minaj , leaking , rapper > 
+< hydrogen , trains , future > 
+< batsman , walking , field > 
+< ’ , s , Solar > 
+< ’ , s , pound > 
+< ’ , s , Ex- > 
+< adult , live , poverty > 
+< Trump , gave , light > 
+< Haspel , assisting , co > 
+< UK , bring , Permanent > 
+< ’ , s , economist > 
+< Australia , enacting , program > 
+< TGC , Dream , Team > 
+< evidence , suggests , Newlands > 
+< ball , tampering , incident > 
+< GrandPrix , starts , Mexico > 
+< view , coming , US > 
+< Jose , had , problem > 
+< team , wears , jersey > 
+< match , watch , hottie > 
+< Day , were , Cricket > 
+< THIS , IS , GOING > 
+< 🌲 , Get , year > 
+< ’ , s , Pro- > 
+< Campaign , Used , Major > 
+< peole , posting , ‘ > 
+< article , looks , UK > 
+< Table , recall , [ > 
+< report , prepared , Se > 
+< Communities , hold , Joint > 
+< 🌲 , Get , year > 
+< 🌲 , Get , year > 
+< 🌲 , Get , year > 
+< post , s , … > 
+< aspect , is , fa > 
+< CNN , Did , Google > 
+< country , lost , Vietnam > 
+< ’ , s , glimpse > 
+< yarn , Made , Russia > 
+< side , won , Liverpool > 
+< Kearney , says , refugee > 
+< ’ , s , presidency > 
+< Manafort , advised , White > 
+< Bumrah , bowls , Starc > 
+< ’ , s , math > 
+< Lattanzi , reveals , Olivia > 
+< Nation , Has , Enough > 
+< Messi , is , playmaker > 
+< Clinton , wrote , letter > 
+< Nigga , been , “ > 
+< LauraHickmanArt , works , sculpture > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< Latham , becomes , batsman > 
+< report , shows , Russia > 
+< McCormack , is , Wagga > 
+< series , is , Aussie > 
+< ve , ignored , level > 
+< year , studying , UK > 
+< lead , is , … > 
+< FC , beat , Manchester > 
+< ‘ , Remaining , EU > 
+< hottie , wanting , asia > 
+< Easy , win , India > 
+< “ , paid , prayer > 
+< Brinkley , leading , R > 
+< Bill , had , opportunity > 
+< online , dating , uk > 
+< girl , dating , … > 
+< anyone , crawling , week > 
+< game , called , Netball > 
+< man , named , part > 
+< “ , conniving , ” > 
+< Longhorns , don , ’ > 
+< Longhorns , like , … > 
+< Lab , launches , ELaNa- > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< Clinton , wrote , letter > 
+< STOP , censoring , coverage > 
+< UK , sponsored , starvation > 
+< world , know , … > 
+< Bumrah , taking , wicket > 
+< ’ , s , Terracotta > 
+< EU , is , organisation > 
+< IanDoyleSport , thrilling , game > 
+< Russia , used , network > 
+< NASA , sent , Juno > 
+< WomanLikeMeWatchParty , starting , tomorrow > 
+< ’ , s , nonsense > 
+< math , solving , bastard > 
+< HK , Enter , Coupon > 
+< Brexit , is , game > 
+< Britain , wins , Golden > 
+< ’ , s , Sunday > 
+< t , seen , football > 
+< Liverpool , beat , Manchester > 
+< Hunt , said , event > 
+< wicket , is , OptusStadium > 
+< country , lost , Vietnam > 
+< BREAKING , is , ! > 
+< Pogba , watching , Matic > 
+< Trump , was , contact > 
+< field , misbehaving , wicket > 
+< sex , dating , uk > 
+< Russia , get , middle > 
+< Dictatorship , is , ascendant > 
+< Bali , go , … > 
+< ’ , s , Auston > 
+< ! , Check , … > 
+< Russia , says , UK > 
+< scheme , is , underway > 
+< t , seen , football > 
+< Liverpool , beat , Manchester > 
+< ’ , s , English > 
+< / , s , … > 
+< BREAKING , is , ! > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< Boss , Reveals , Operation > 
+< t , speak , football > 
+< right , is , science > 
+< BREAKING , is , ! > 
+< Turkey , opposes , independence > 
+< May , pleaded , Saudi > 
+< Looks , like , Starc > 
+< Australia , having , … > 
+< UK , leaves , EU > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< failure , like , Rudd > 
+< Trump , asking , Russia > 
+< railway , including , Dakar > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< ’ , s , capital > 
+< pitch , has , lot > 
+< Football , brings , friendship > 
+< scentaddict , filled , Prada > 
+< Twitter , concealed , information > 
+< Australia , crackling , Perth > 
+< Starc , is , Bumrah > 
+< Australia , 's , … > 
+< ! , Get , Dolce > 
+< ’ , s , season > 
+< form , leaving , hahah > 
+< Forrester , finds , UK > 
+< market , is , slowdown > 
+< Colombia , poked , fun > 
+< Australia , set , India > 
+< Shami , claimed , … > 
+< “ , conniving , ” > 
+< Gurley , suffers , knee > 
+< Clinton , wrote , letter > 
+< ’ , s , capital > 
+< sheet , makes , President > 
+< tragedy , was , … > 
+< Tusk , takes , HUGE > 
+< ’ , s , Appie > 
+< Switzerland , continue , post- > 
+< Mourinho , believes , “ > 
+< cricket , rocking , Perth > 
+< Pitch , misbehaving , 😬 > 
+< use , exploited , factory > 
+< UK , based , warehouse > 
+< Execs , Send , Anti- > 
+< RandiTV , covering , cricket > 
+< ’ , s , conviction > 
+< wealth , funded , expansion > 
+< elba , is , sexiest > 
+< ’ , s , tonn > 
+< mind , blowing , Pre- > 
+< betrayal , raises , question > 
+< ’ , s , Tory > 
+< ’ , s , … > 
+< Earth , is , Th > 
+< touch , looking , help > 
+< match , lost , _ > 
+< Clinton , wrote , letter > 
+< melody , lifts , message > 
+< melody , lifts , message > 
+< Heteroflexibility , is , phenomeno > 
+< Clinton , wrote , letter > 
+< cricket , rocking , Perth > 
+< Pitch , misbehaving , 😬 > 
+< ’ , s , ‘ > 
+< ’ , is , UK > 
+< ’ , s , favourite > 
+< 🇺 , ordered , Luxury > 
+< world , is , complicit > 
+< WaPo , obtained , report > 
+< ’ , s , disinformation > 
+< Shami , was , lunch > 
+< Division , consisted , concentration > 
+< ’ , s , existence > 
+< re , talking , Catriona > 
+< record , came , year > 
+< Colombia , poked , fun > 
+< journalist , loses , ounce > 
+< TATNA , WAS , AWARDED > 
+< ⊕ , Guaranteed , payday > 
+< _ , Has , USA > 
+< report , prepared , Senate > 
+< boss , has , squad > 
+< Perfectly , put , ! > 
+< TFVdqxUwR , Please , youtube > 
+< ppl , giving , Block > 
+< Bbomb , is , … > 
+< Dictatorship , is , ascendant > 
+< tf , uses , math > 
+< Elba , knows , score > 
+< sheet , makes , President > 
+< STARK , IS , ALIVE > 
+< Country , has , “ > 
+< ’ , s , Brexit > 
+< RT , remain , _ > 
+< ’ , s , Brexiters > 
+< Tune , is , Test > 
+< Clinton , wrote , letter > 
+< legislation , protecting , agency > 
+< justification , threatening , EU > 
+< haselwood , come , home > 
+< leahmcelrath , Has , banana > 
+< republic , seen , level > 
+< t , imagine , USA > 
+< mix , beating , Rams > 
+< someone , giving , interpretation > 
+< case , based , reading > 
+< Kearney , says , refugee > 
+< BREAKING , is , ! > 
+< Key , Duplicating , Machine > 
+< Saints , announce , uniform > 
+< ’ , s , deal > 
+< ’ , s , beginning > 
+< ’ , s , power > 
+< judge , said , Sajjan > 
+< Kumar , escaped , trial > 
+< play , s , … > 
+< Kohli , wins , India > 
+< Clinton , wrote , letter > 
+< ICC , depends , start > 
+< Tune , is , Test > 
+< + , winning , cause > 
+< PeoplesVote , is , idea > 
+< call , choking , patient > 
+< / , ask , someone > 
+< Wenger , took , break > 
+< Gray , is , way > 
+< ODI , matches , Pakistan > 
+< ll , be , fine > 
+< _ , Being , _ > 
+< cricket , rocking , Perth > 
+< Pitch , misbehaving , 😬 > 
+< virtue , signaling , ” > 
+< ’ , s , China-focused > 
+< EU , comprises , minority > 
+< ’ , s , beginning > 
+< ’ , s , power > 
+< Giuliani , admits , Trump > 
+< pendant , created , Diamond > 
+< AusRepublic , Is , itvabout > 
+< michcoll , has , chemistry > 
+< Australia , is , track > 
+< report , shows , Russia > 
+< ve , signed , ResCareTo > 
+< microgravity , requires , lifting > 
+< UK , leaving , EU > 
+
+
+------------ Linked List Representation ----------
+
+
+! -->  ( … | Check ) -->  ( Dolce | Get ) --> |/|
++ -->  ( cause | winning ) --> |/|
+/ -->  ( … | s ) -->  ( someone | ask ) --> |/|
+Alice -->  ( Bob | loves ) --> |/|
+AusRepublic -->  ( itvabout | Is ) --> |/|
+Australia -->  ( program | enacting ) -->  ( India | set ) -->  ( India | set ) -->  ( India | set ) -->  ( … | having ) -->  ( India | set ) -->  ( India | set ) -->  ( Perth | crackling ) -->  ( … | 's ) -->  ( India | set ) -->  ( track | is ) --> |/|
+BREAKING -->  ( ! | is ) -->  ( ! | is ) -->  ( ! | is ) -->  ( ! | is ) --> |/|
+BREAKING—Helicopter -->  ( Vichai | carrying ) --> |/|
+Bali -->  ( … | go ) --> |/|
+Barnes -->  ( Australia | calls ) --> |/|
+Bbomb -->  ( … | is ) --> |/|
+Bill -->  ( opportunity | had ) --> |/|
+Bob -->  ( Trudy | loves ) --> |/|
+Boss -->  ( Operation | Reveals ) --> |/|
+Brexit -->  ( game | is ) --> |/|
+Brinkley -->  ( R | leading ) --> |/|
+Britain -->  ( Golden | wins ) --> |/|
+Bumrah -->  ( Starc | bowls ) -->  ( wicket | taking ) --> |/|
+CNN -->  ( Google | Did ) --> |/|
+Campaign -->  ( Major | Used ) --> |/|
+Clapper -->  ( Australia | is ) --> |/|
+Clinton -->  ( letter | wrote ) -->  ( letter | wrote ) -->  ( letter | wrote ) -->  ( letter | wrote ) -->  ( letter | wrote ) -->  ( letter | wrote ) -->  ( letter | wrote ) --> |/|
+Colombia -->  ( fun | poked ) -->  ( fun | poked ) --> |/|
+Communities -->  ( Joint | hold ) --> |/|
+Country -->  ( “ | has ) --> |/|
+Day -->  ( Cricket | were ) --> |/|
+Dictatorship -->  ( ascendant | is ) -->  ( ascendant | is ) --> |/|
+Division -->  ( concentration | consisted ) --> |/|
+EU -->  ( organisation | is ) -->  ( minority | comprises ) --> |/|
+Earth -->  ( Th | is ) --> |/|
+Easy -->  ( India | win ) --> |/|
+Elba -->  ( score | knows ) --> |/|
+Execs -->  ( Anti- | Send ) --> |/|
+FC -->  ( Manchester | beat ) --> |/|
+Football -->  ( friendship | brings ) --> |/|
+Forrester -->  ( UK | finds ) --> |/|
+Giuliani -->  ( Trump | admits ) --> |/|
+God -->  ( Bible | gave ) --> |/|
+GrandPrix -->  ( Mexico | starts ) --> |/|
+Gray -->  ( way | is ) --> |/|
+Gurley -->  ( knee | suffers ) --> |/|
+HK -->  ( Coupon | Enter ) --> |/|
+Haspel -->  ( co | assisting ) --> |/|
+Hennessy -->  ( Nicki | accuses ) --> |/|
+Heteroflexibility -->  ( phenomeno | is ) --> |/|
+Hunt -->  ( event | said ) --> |/|
+ICC -->  ( start | depends ) --> |/|
+IanDoyleSport -->  ( game | thrilling ) --> |/|
+Jose -->  ( problem | had ) --> |/|
+Kearney -->  ( refugee | says ) -->  ( refugee | says ) --> |/|
+Key -->  ( Machine | Duplicating ) --> |/|
+Kohli -->  ( India | wins ) --> |/|
+Kumar -->  ( trial | escaped ) --> |/|
+Lab -->  ( ELaNa- | launches ) --> |/|
+Latham -->  ( batsman | becomes ) --> |/|
+Lattanzi -->  ( Olivia | reveals ) --> |/|
+LauraHickmanArt -->  ( sculpture | works ) --> |/|
+Lester -->  ( cheating | accused ) --> |/|
+Liverpool -->  ( Manchester | beat ) -->  ( Manchester | beat ) --> |/|
+Longhorns -->  ( ’ | don ) -->  ( … | like ) --> |/|
+Looks -->  ( Starc | like ) --> |/|
+MEMBERS -->  ( SOME | GET ) --> |/|
+Manafort -->  ( White | advised ) --> |/|
+Mattis -->  ( Rolling | Begins ) --> |/|
+May -->  ( Saudi | pleaded ) --> |/|
+McCormack -->  ( Wagga | is ) --> |/|
+Messi -->  ( playmaker | is ) --> |/|
+Minaj -->  ( rapper | leaking ) --> |/|
+Morrison -->  ( Planet | believes ) --> |/|
+Mourinho -->  ( “ | believes ) --> |/|
+NASA -->  ( Juno | sent ) --> |/|
+Nation -->  ( Enough | Has ) --> |/|
+Nigga -->  ( em | hit ) -->  ( “ | been ) --> |/|
+ODI -->  ( Pakistan | matches ) --> |/|
+PeoplesVote -->  ( idea | is ) --> |/|
+Perfectly -->  ( ! | put ) --> |/|
+Pitch -->  ( 😬 | misbehaving ) -->  ( 😬 | misbehaving ) -->  ( 😬 | misbehaving ) --> |/|
+Pogba -->  ( Matic | watching ) --> |/|
+Putin -->  ( … | coming ) --> |/|
+RT -->  ( tweet | 's ) -->  ( _ | remain ) --> |/|
+RandiTV -->  ( cricket | covering ) --> |/|
+Russia -->  ( network | used ) -->  ( middle | get ) -->  ( UK | says ) --> |/|
+STARK -->  ( ALIVE | IS ) --> |/|
+STOP -->  ( coverage | censoring ) --> |/|
+Saints -->  ( uniform | announce ) --> |/|
+Shami -->  ( … | claimed ) -->  ( … | claimed ) -->  ( … | claimed ) -->  ( … | claimed ) -->  ( … | claimed ) -->  ( … | claimed ) -->  ( lunch | was ) --> |/|
+Starc -->  ( Bumrah | is ) --> |/|
+Switzerland -->  ( post- | continue ) --> |/|
+TATNA -->  ( AWARDED | WAS ) --> |/|
+TFVdqxUwR -->  ( youtube | Please ) --> |/|
+TGC -->  ( Team | Dream ) --> |/|
+THIS -->  ( GOING | IS ) --> |/|
+Table -->  ( [ | recall ) --> |/|
+Trudy -->  ( Alice | Loves ) --> |/|
+Trump -->  ( living | deported ) -->  ( light | gave ) -->  ( contact | was ) -->  ( Russia | asking ) --> |/|
+Tune -->  ( Test | is ) -->  ( Test | is ) --> |/|
+Turkey -->  ( independence | opposes ) --> |/|
+Tusk -->  ( HUGE | takes ) --> |/|
+Twitter -->  ( information | concealed ) --> |/|
+UK -->  ( football | is ) -->  ( Permanent | bring ) -->  ( starvation | sponsored ) -->  ( EU | leaves ) -->  ( warehouse | based ) -->  ( EU | leaving ) --> |/|
+UNT -->  ( Conference | winning ) --> |/|
+US -->  ( tour | speaking ) --> |/|
+USA -->  ( CRITICAL | IS ) --> |/|
+WaPo -->  ( report | obtained ) --> |/|
+Wenger -->  ( break | took ) --> |/|
+WomanLikeMeWatchParty -->  ( tomorrow | starting ) --> |/|
+YG -->  ( iKON | update ) -->  ( iKON | update ) --> |/|
+_ -->  ( USA | Has ) -->  ( _ | Being ) --> |/|
+adult -->  ( poverty | live ) --> |/|
+analysis -->  ( majority | showing ) --> |/|
+anyone -->  ( week | crawling ) --> |/|
+article -->  ( UK | looks ) --> |/|
+aspect -->  ( fa | is ) --> |/|
+ball -->  ( incident | tampering ) --> |/|
+batsman -->  ( field | walking ) --> |/|
+betrayal -->  ( question | raises ) --> |/|
+boss -->  ( squad | has ) --> |/|
+cXMfpLaJSQ -->  ( DGR | has ) --> |/|
+call -->  ( patient | choking ) --> |/|
+case -->  ( reading | based ) --> |/|
+client -->  ( search | is ) --> |/|
+country -->  ( Vietnam | lost ) -->  ( Vietnam | lost ) --> |/|
+cricket -->  ( Perth | rocking ) -->  ( Perth | rocking ) -->  ( Perth | rocking ) --> |/|
+earlybiz -->  ( weekend | Had ) --> |/|
+egyptian -->  ( nasa | mentioned ) -->  ( nasa | mentioned ) -->  ( nasa | mentioned ) -->  ( nasa | mentioned ) -->  ( nasa | mentioned ) -->  ( nasa | mentioned ) --> |/|
+elba -->  ( sexiest | is ) --> |/|
+everyone -->  ( Burns | doing ) --> |/|
+evidence -->  ( Newlands | suggests ) --> |/|
+failure -->  ( Rudd | like ) --> |/|
+field -->  ( wicket | misbehaving ) --> |/|
+form -->  ( hahah | leaving ) --> |/|
+game -->  ( Netball | called ) --> |/|
+girl -->  ( … | dating ) --> |/|
+haselwood -->  ( home | come ) --> |/|
+hatred -->  ( MSM | inspired ) --> |/|
+hottie -->  ( asia | wanting ) --> |/|
+hydrogen -->  ( future | trains ) --> |/|
+journalist -->  ( ounce | loses ) --> |/|
+judge -->  ( Sajjan | said ) --> |/|
+justification -->  ( EU | threatening ) --> |/|
+lead -->  ( … | is ) --> |/|
+leahmcelrath -->  ( banana | Has ) --> |/|
+legislation -->  ( agency | protecting ) --> |/|
+ll -->  ( fine | be ) --> |/|
+luck -->  ( reli | getting ) --> |/|
+man -->  ( risk | is ) -->  ( part | named ) --> |/|
+market -->  ( slowdown | is ) --> |/|
+match -->  ( hottie | watch ) -->  ( _ | lost ) --> |/|
+math -->  ( bastard | solving ) --> |/|
+melody -->  ( message | lifts ) -->  ( message | lifts ) --> |/|
+michcoll -->  ( chemistry | has ) --> |/|
+microgravity -->  ( lifting | requires ) --> |/|
+mind -->  ( Pre- | blowing ) --> |/|
+mix -->  ( Rams | beating ) --> |/|
+online -->  ( uk | dating ) --> |/|
+pendant -->  ( Diamond | created ) --> |/|
+peole -->  ( ‘ | posting ) --> |/|
+pitch -->  ( lot | has ) --> |/|
+play -->  ( … | s ) --> |/|
+player -->  ( jumpsuit | glittering ) --> |/|
+post -->  ( … | s ) --> |/|
+ppl -->  ( Block | giving ) --> |/|
+railway -->  ( Dakar | including ) --> |/|
+re -->  ( spacecraft | landing ) -->  ( Catriona | talking ) --> |/|
+record -->  ( year | came ) --> |/|
+reminder -->  ( Trump | swamp ) --> |/|
+report -->  ( Se | prepared ) -->  ( Russia | shows ) -->  ( Senate | prepared ) -->  ( Russia | shows ) --> |/|
+republic -->  ( level | seen ) --> |/|
+right -->  ( science | is ) --> |/|
+scentaddict -->  ( Prada | filled ) --> |/|
+scheme -->  ( underway | is ) --> |/|
+series -->  ( Aussie | is ) --> |/|
+sex -->  ( uk | dating ) --> |/|
+sheet -->  ( President | makes ) -->  ( President | makes ) --> |/|
+side -->  ( Liverpool | won ) --> |/|
+someone -->  ( interpretation | giving ) --> |/|
+t -->  ( premium | afford ) -->  ( football | seen ) -->  ( football | seen ) -->  ( football | speak ) -->  ( USA | imagine ) --> |/|
+talk -->  ( balance | getting ) --> |/|
+team -->  ( jersey | wears ) --> |/|
+tf -->  ( math | uses ) --> |/|
+touch -->  ( help | looking ) --> |/|
+tragedy -->  ( … | was ) --> |/|
+use -->  ( factory | exploited ) --> |/|
+ve -->  ( level | ignored ) -->  ( ResCareTo | signed ) --> |/|
+view -->  ( US | coming ) --> |/|
+virtue -->  ( ” | signaling ) --> |/|
+wealth -->  ( expansion | funded ) --> |/|
+week -->  ( climate | rated ) --> |/|
+wicket -->  ( OptusStadium | is ) --> |/|
+world -->  ( … | know ) -->  ( complicit | is ) --> |/|
+yarn -->  ( Russia | Made ) --> |/|
+year -->  ( UK | studying ) --> |/|
+‘ -->  ( EU | Remaining ) --> |/|
+’ -->  ( tour | s ) -->  ( seat | s ) -->  ( interi | s ) -->  ( Win | s ) -->  ( number | s ) -->  ( policy | s ) -->  ( ladder | s ) -->  ( pride | s ) -->  ( concept | s ) -->  ( InSight | s ) -->  ( ID | s ) -->  ( Solar | s ) -->  ( pound | s ) -->  ( Ex- | s ) -->  ( economist | s ) -->  ( Pro- | s ) -->  ( glimpse | s ) -->  ( presidency | s ) -->  ( math | s ) -->  ( Terracotta | s ) -->  ( nonsense | s ) -->  ( Sunday | s ) -->  ( Auston | s ) -->  ( English | s ) -->  ( capital | s ) -->  ( season | s ) -->  ( capital | s ) -->  ( Appie | s ) -->  ( conviction | s ) -->  ( tonn | s ) -->  ( Tory | s ) -->  ( … | s ) -->  ( ‘ | s ) -->  ( UK | is ) -->  ( favourite | s ) -->  ( disinformation | s ) -->  ( existence | s ) -->  ( Brexit | s ) -->  ( Brexiters | s ) -->  ( deal | s ) -->  ( beginning | s ) -->  ( power | s ) -->  ( China-focused | s ) -->  ( beginning | s ) -->  ( power | s ) --> |/|
+“ -->  ( prayer | paid ) -->  ( ” | conniving ) -->  ( ” | conniving ) --> |/|
+⊕ -->  ( payday | Guaranteed ) --> |/|
+🇺 -->  ( Luxury | ordered ) --> |/|
+🌲 -->  ( year | Get ) -->  ( year | Get ) -->  ( year | Get ) -->  ( year | Get ) --> |/|
