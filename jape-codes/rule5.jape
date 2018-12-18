@@ -1,0 +1,32 @@
+Phase: Rule4
+Input: Token Lookup node edge
+Options: control = appelt
+
+Macro: EXCLUDE 
+(
+             ({ Token.category == DT  })
+        |    ({ Token.category == JJ  })
+        |    ({ Token.category == IN  })
+)
+
+Rule: Rule5
+(
+        (EXCLUDE)*                 :exclude1
+        ({   node.kind == NOUN })  :node1
+        (EXCLUDE)*                 :exclude2
+        ({   edge.kind == VERB })  :edge
+        (EXCLUDE)*                 :exclude3
+        ({   node.kind == NOUN })  :node2
+        (EXCLUDE)*                 :exclude4 
+):lblMatch
+-->
+:lblMatch.tupleOnAnnotationList = {      kind = "tupleKind", rule = Rule5, u=:node1.node.mystring, e=:edge.edge.mystring, v=:node2.node.mystring  },
+
+//:node1.u = { kind = "startingNode" , rule = Rule4 ,  str = :node1.node.mystring },
+//:edge.e = { kind = "u-e-v", rule = Rule4 , str = :edge.edge.mystring },
+//:node2.v = { kind = "endingNode", rule = Rule4 , str = :node2.node.mystring },
+//:exclude1.x = {kind = "exclude1" },
+//:exclude2.x = {kind = "exclude2" },
+//:exclude3.x = {kind = "exclude3" },
+:exclude4.x = {kind = "exclude4" }
+//  u= :node1.mystring, e= :edge.mystring, v= :node2.mystring       }

@@ -1,6 +1,8 @@
 ## GATE developer all hands-on
 https://gate.ac.uk/wiki/training-materials-2011.html 
 
+## Useful static / global methods just like cpp STL
+https://jenkins.gate.ac.uk/job/gate-core/javadoc/gate/Utils.html
 
 ## Dbpedia spotlight link:  
 https://sourceforge.net/projects/dbpedia-spotlight/files/

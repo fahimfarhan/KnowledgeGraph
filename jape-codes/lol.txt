@@ -1,0 +1,2476 @@
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=censoring}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=STOP}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=coverage}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=starvation}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=sponsored}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Let}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=world}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Yemen}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Bumrah}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=wicket}
+----------------
+Found Token annotation
+ features: {string=With, length=4, orth=upperInitial, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=taking}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=final, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Terracotta}
+----------------
+Found Token annotation
+ features: {string=that, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=EU}
+----------------
+Found Token annotation
+ features: {string=rules-based, length=11, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=organisation}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=IanDoyleSport}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=game}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=thrilling}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Russia}
+----------------
+Found Token annotation
+ features: {string=every, length=5, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=major, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=social, length=6, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=network}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=used}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=sent}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Juno}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=NASA}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=WomanLikeMeWatchParty}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=tomorrow}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=starting}
+----------------
+Found Token annotation
+ features: {string=from, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=nonsense}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=math}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=bastard}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=solving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Coupon}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Enter}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=HK}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Brexit}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=game}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Golden}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Britain}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wins}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=end, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Sunday}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=seen}
+----------------
+Found Token annotation
+ features: {string=any, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=football}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=t}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Manchester}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Liverpool}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=beat}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=event}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Hunt}
+----------------
+Found Token annotation
+ features: {string=that, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=said}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=OptusStadium}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=wicket}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Vietnam}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=lost}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=country}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=big, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=BREAKING}
+----------------
+Found Token annotation
+ features: {string=This, length=4, orth=upperInitial, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=watching}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Matic}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pogba}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Trump}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=contact}
+----------------
+Found Token annotation
+ features: {string=with, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=was}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=close, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=field}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=wicket}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=misbehaving}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=dating}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=sex}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=uk}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=middle}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Russia}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=get}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Dictatorship}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ascendant}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=around, length=6, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=go}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Bali}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Auston}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=an, length=2, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Check}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Russia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=says}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=scheme}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=underway}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=t}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=seen}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=football}
+----------------
+Found Token annotation
+ features: {string=any, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=beat}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Liverpool}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Manchester}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=English}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=/}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=BREAKING}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found Token annotation
+ features: {string=This, length=4, orth=upperInitial, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=big, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=India}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=set}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=claimed}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Shami}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Reveals}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Boss}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Operation}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=t}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=football}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=speak}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=right}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=science}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=This, length=4, orth=upperInitial, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=big, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=BREAKING}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=opposes}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Turkey}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=independence}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=pleaded}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=May}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Saudi}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Starc}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=like}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Looks}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found Token annotation
+ features: {string=bowled, length=6, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=single, length=6, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=having}
+----------------
+Found Token annotation
+ features: {string=without, length=7, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=EU}
+----------------
+Found Token annotation
+ features: {string=If, length=2, orth=upperInitial, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=leaves}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=India}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=set}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Shami}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=claimed}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=failure}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Rudd}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=like}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Russia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Trump}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=asking}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Dakar}
+----------------
+Found Token annotation
+ features: {string=cross-continental, length=17, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=railway}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=including}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=African, length=7, orth=upperInitial, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=set}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=India}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Shami}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=claimed}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=capital}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=This, length=4, orth=upperInitial, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=lot}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=pitch}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=has}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Football}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=friendship}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=brings}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=scentaddict}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Prada}
+----------------
+Found Token annotation
+ features: {string=with, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=filled}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Twitter}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=information}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=concealed}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=crackling}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Perth}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Starc}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Bumrah}
+----------------
+Found Token annotation
+ features: {string=bowled, length=6, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=by, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=all, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=out, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring='s}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Dolce}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Get}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=season}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=top, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=leaving}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=hahah}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=form}
+----------------
+Found Token annotation
+ features: {string=that, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Forrester}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=finds}
+----------------
+Found Token annotation
+ features: {string=sharp, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=amid, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=slowdown}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=market}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Colombia}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=poked}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=fun}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=India}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=set}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=claimed}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Shami}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=conniving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=“}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=”}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=suffers}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Gurley}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=knee}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=letter}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Clinton}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=capital}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=makes}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=sheet}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=President}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=was}
+----------------
+Found Token annotation
+ features: {string=The, length=3, orth=upperInitial, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=real, length=4, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=tragedy}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Tusk}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=HUGE}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=takes}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Appie}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=continue}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=post-}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Switzerland}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=believes}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Mourinho}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=“}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=cricket}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Perth}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=rocking}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=misbehaving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pitch}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=😬}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=use}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=factory}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=exploited}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=based}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=warehouse}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Send}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Execs}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Anti-}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=RandiTV}
+----------------
+Found Token annotation
+ features: {string=some, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=covering}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=cricket}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=conviction}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=funded}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=wealth}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=expansion}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=sexiest}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=elba}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=tonn}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=A, length=1, orth=upperInitial, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=mind}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pre-}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=blowing}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=betrayal}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=question}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=raises}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Tory}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=flat, length=4, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Earth}
+----------------
+Found Token annotation
+ features: {string=The, length=3, orth=upperInitial, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Th}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=touch}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=help}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=looking}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=lost}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=match}
+----------------
+Found Token annotation
+ features: {string=by, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=_}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=letter}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Clinton}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=message}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=lifts}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=powerful, length=8, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=melody}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=powerful, length=8, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=melody}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=lifts}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=message}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=real, length=4, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Heteroflexibility}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=phenomeno}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Clinton}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=letter}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=rocking}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=cricket}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Perth}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=misbehaving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pitch}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=😬}
+----------------
+Found Token annotation
+ features: {string=festive, length=7, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=classic, length=7, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=‘}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=favourite}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=🇺}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Luxury}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=ordered}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=complicit}
+----------------
+Found Token annotation
+ features: {string=The, length=3, orth=upperInitial, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=world}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=obtained}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=report}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=WaPo}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=disinformation}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Shami}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=was}
+----------------
+Found Token annotation
+ features: {string=charged-up, length=10, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=lunch}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=consisted}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Division}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=concentration}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=existence}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=all, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=re}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Catriona}
+----------------
+Found Token annotation
+ features: {string=about, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=talking}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=same, length=4, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=record}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=year}
+----------------
+Found Token annotation
+ features: {string=as, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=came}
+----------------
+Found Token annotation
+ features: {string=new, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=out, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Colombia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=fun}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=poked}
+----------------
+Found Token annotation
+ features: {string=no, length=2, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=an, length=2, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=journalist}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ounce}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=loses}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=TATNA}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=AWARDED}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=WAS}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Guaranteed}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=⊕}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=payday}
+----------------
+Found Token annotation
+ features: {string=all, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=over, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Has}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=USA}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=_}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=report}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Senate}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=prepared}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=has}
+----------------
+Found Token annotation
+ features: {string=The, length=3, orth=upperInitial, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=some, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=boss}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=squad}
+----------------
+Found Token annotation
+ features: {string=available, length=9, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=put}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Perfectly}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Please}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=youtube}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=TFVdqxUwR}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ppl}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=giving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Block}
+----------------
+Found Token annotation
+ features: {string=ful, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Bbomb}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Dictatorship}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ascendant}
+----------------
+Found Token annotation
+ features: {string=around, length=6, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=uses}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=tf}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=math}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=knows}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Elba}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=score}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=President}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=sheet}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=makes}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ALIVE}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=IS}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=STARK}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=has}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Country}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=“}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Brexit}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=boorish, length=7, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=remain}
+----------------
+Found Token annotation
+ features: {string=central, length=7, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=RT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=_}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Brexiters}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Tune}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Test}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=great, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Clinton}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=letter}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=legislation}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=agency}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=protecting}
+----------------
+Found Token annotation
+ features: {string=new, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=threatening}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=with, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=A, length=1, orth=upperInitial, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=No, length=2, orth=upperInitial, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=justification}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=EU}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=haselwood}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=come}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=home}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Has}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=leahmcelrath}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=banana}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=seen}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=republic}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=level}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=t}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=USA}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=imagine}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=that, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=beating}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Rams}
+----------------
+Found Token annotation
+ features: {string=after, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=mix}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=someone}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=interpretation}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=giving}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=conservative, length=12, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=case}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=reading}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=based}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=selective, length=9, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=refugee}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=says}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Kearney}
+----------------
+Found Token annotation
+ features: {string=big, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=BREAKING}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=!}
+----------------
+Found Token annotation
+ features: {string=This, length=4, orth=upperInitial, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Duplicating}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Key}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Machine}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=announce}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=uniform}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Saints}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=deal}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=beginning}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=power}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=judge}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Sajjan}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=said}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Kumar}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=trial}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=escaped}
+----------------
+Found Token annotation
+ features: {string=because, length=7, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=play}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=…}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Kohli}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=India}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wins}
+----------------
+Found Token annotation
+ features: {string=If, length=2, orth=upperInitial, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Clinton}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=letter}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=wrote}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ICC}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=start}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=depends}
+----------------
+Found Token annotation
+ features: {string=All, length=3, orth=upperInitial, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Tune}
+----------------
+Found Token annotation
+ features: {string=this, length=4, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Test}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=great, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=+}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=winning}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=cause}
+----------------
+Found Token annotation
+ features: {string=since, length=5, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=PeoplesVote}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=idea}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=bad, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=patient}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=choking}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=call}
+----------------
+Found Token annotation
+ features: {string=If, length=2, orth=upperInitial, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=/}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=ask}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=someone}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=break}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=from, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=took}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Wenger}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=way}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Gray}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pakistan}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ODI}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=matches}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=fine}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ll}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=be}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Being}
+----------------
+Found Token annotation
+ features: {string=Unknown, length=7, orth=upperInitial, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=_}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=_}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=cricket}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Perth}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=rocking}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Pitch}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=😬}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=misbehaving}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=signaling}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=”}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=virtue}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=China-focused}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=insightful, length=10, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=new, length=3, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=EU}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=comprises}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=minority}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=beginning}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found Token annotation
+ features: {string=of, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=’}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=power}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=s}
+----------------
+Found Token annotation
+ features: {string=colluded, length=8, orth=lowercase, kind=word, category=JJ}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Trump}
+----------------
+Found Token annotation
+ features: {string=with, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=admits}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Giuliani}
+----------------
+Found Token annotation
+ features: {string=by, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=pendant}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Diamond}
+----------------
+Found Token annotation
+ features: {string=a, length=1, orth=lowercase, kind=word, category=DT}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=created}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=AusRepublic}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=Is}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=itvabout}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=has}
+----------------
+Found Token annotation
+ features: {string=no, length=2, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=michcoll}
+----------------
+Found Token annotation
+ features: {string=with, length=4, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=chemistry}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=is}
+----------------
+Found Token annotation
+ features: {string=on, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found Token annotation
+ features: {string=for, length=3, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Australia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=track}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=shows}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=report}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=Russia}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ResCareTo}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=signed}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=ve}
+----------------
+Found Token annotation
+ features: {string=@, length=1, kind=punctuation, category=IN}
+----------------
+Found Token annotation
+ features: {string=no, length=2, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=heavy, length=5, orth=lowercase, kind=word, category=JJ}
+----------------
+Found Token annotation
+ features: {string=at, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=requires}
+----------------
+Found Token annotation
+ features: {string=all, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=microgravity}
+----------------
+Found Token annotation
+ features: {string=in, length=2, orth=lowercase, kind=word, category=IN}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=lifting}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=EU}
+----------------
+Found edge annotation
+ features: {rule=Edge, kind=VERB, mystring=leaving}
+----------------
+Found node annotation
+ features: {rule=Node, kind=NOUN, mystring=UK}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------
+Found Token annotation
+ features: {string=the, length=3, orth=lowercase, kind=word, category=DT}
+----------------

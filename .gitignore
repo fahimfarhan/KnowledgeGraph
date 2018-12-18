@@ -7,6 +7,8 @@ __pycache__/
 .idea/
 .vscode/
 Ignore/
+corpus-experimental/
+corpus-saved-state/
 
 # C extensions
 *.so

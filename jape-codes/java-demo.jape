@@ -1,0 +1,13 @@
+Phase: HelloWorld
+Input: Token
+Options: control = appelt
+
+Rule: HelloWorld
+(
+    { Token.string == "Hello" }
+    { Token.string == "World" } 
+):hello 
+-->
+{
+    System.out.println("Hello World! :D ");
+}

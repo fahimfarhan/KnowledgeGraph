@@ -1,0 +1,39 @@
+Phase: Rule4
+Input: tupleOnAnnotationList
+Options: control = appelt
+
+
+
+Rule: Rule6
+(
+    {   tupleOnAnnotationList.kind == tupleKind }
+)  :match
+-->
+:match{
+    
+   AnnotationSet annotationSets = bindings.get("match");
+    
+    try {
+        File file = new File("/home/fahimfarhan/Codes/Thesis-Codes/KnowledgeGraph/Output/graph.txt");
+        FileWriter fw = new FileWriter(file, true);
+        BufferedWriter bw = new BufferedWriter(fw);
+
+        for(Annotation annotation : annotationSets) {
+            System.out.println("Found " + annotation.getType() + " annotation");
+            System.out.println(" features: " + annotation.getFeatures());
+            System.out.println();
+            System.out.println("----------------");
+            bw.write(annotation.getFeatures()+"\n");
+        } 
+        
+        bw.close();
+        fw.close();
+
+    } catch (Exception x) {
+        //TODO: handle exception
+        System.out.println(x.toString());
+    }
+
+    
+
+}        
