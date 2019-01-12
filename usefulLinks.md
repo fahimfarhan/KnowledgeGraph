@@ -1,6 +1,14 @@
 ## GATE developer all hands-on
 https://gate.ac.uk/wiki/training-materials-2011.html 
 
+https://gate.ac.uk/releases/gate-8.5.1/tao/split.html
+
+https://gate.ac.uk/wiki/TrainingCourseJune2017/
+
+https://gate.ac.uk/releases/gate-8.5.1/tao/splitch12.html#x16-30200012.3
+
+https://gate.ac.uk/releases/gate-8.5.1/tao/splitch7.html#x11-1680007.12
+
 ## Useful static / global methods just like cpp STL
 https://jenkins.gate.ac.uk/job/gate-core/javadoc/gate/Utils.html
 

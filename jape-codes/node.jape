@@ -1,12 +1,12 @@
 Phase: Node
-Input: Token
+Input: DBpediaLink Token 
 Options: control = appelt
 
 Rule: Node
 (
-        ({ Token.category == NNP })
-   |    ({ Token.category == NN  })
+        ({ DBpediaLink, Token.category == NNP })
+   |    ({ DBpediaLink, Token.category == NN  })
 ):match
 -->
-:match.node = { rule=Node, kind = NOUN  , mystring = :match.Token.string }
+:match.node = { rule=Node, kind = NOUN  , mystring = :match.Token.string ,URI=:match.DBpediaLink.URI, similarityScore=:match.DBpediaLink.similarityScore }
 // :match.mystring = { string = :match.string    }, //

@@ -1,3 +1,9 @@
+Imports: {
+
+import Singleton;
+
+}
+
 Phase: HelloWorld
 Input: Token
 Options: control = appelt
@@ -8,6 +14,13 @@ Rule: HelloWorld
     { Token.string == "World" } 
 ):hello 
 -->
-{
+{   
+    try{
+        Singleton.getInstance();
+    }catch(Exception x){
+        System.out.println("singleton FAILED!");
+        //x.printStackStrace();
+    }
+    
     System.out.println("Hello World! :D ");
 }
