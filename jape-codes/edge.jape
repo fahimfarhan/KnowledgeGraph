@@ -1,16 +1,16 @@
 Phase: Edge
-Input: DBpediaLink Token
+Input: Token
 Options: control = appelt
 
 Rule: Edge
 (
-        ({ DBpediaLink, Token.category == VBZ  })
-   |    ({ DBpediaLink, Token.category == VBN  })
-   |    ({ DBpediaLink, Token.category == VBG  })
-   |    ({ DBpediaLink, Token.category == VB   })
-   |    ({ DBpediaLink, Token.category == VBD  })
+        ({  Token.category == VBZ  })
+   |    ({  Token.category == VBN  })
+   |    ({  Token.category == VBG  })
+   |    ({  Token.category == VB   })
+   |    ({  Token.category == VBD  })
 ):match
 -->
-:match.edge = { rule=Edge, kind = VERB, mystring = :match.Token.string, URI=:match.DBpediaLink.URI, similarityScore=:match.DBpediaLink.similarityScore }
+:match.edge = { rule=Edge, kind = VERB, mystring = :match.Token.string }
 
 

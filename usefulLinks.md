@@ -1,4 +1,10 @@
+## SPARQL 
+https://jena.apache.org/tutorials/sparql.html
+
 ## GATE developer all hands-on
+
+https://gate.ac.uk/wiki/TrainingCourseJune2015/
+
 https://gate.ac.uk/wiki/training-materials-2011.html 
 
 https://gate.ac.uk/releases/gate-8.5.1/tao/split.html
@@ -8,6 +14,13 @@ https://gate.ac.uk/wiki/TrainingCourseJune2017/
 https://gate.ac.uk/releases/gate-8.5.1/tao/splitch12.html#x16-30200012.3
 
 https://gate.ac.uk/releases/gate-8.5.1/tao/splitch7.html#x11-1680007.12
+
+## Might be related to ontology which in turns show RDF
+
+https://gate.ac.uk/wiki/jape-repository/ontologies.html
+
+https://gate.ac.uk/sale/tao/splitch14.html#x19-35600014.3
+https://gate.ac.uk/sale/tao/splitch14.html#sec:ontologies:ontology-aware-jape
 
 ## Useful static / global methods just like cpp STL
 https://jenkins.gate.ac.uk/job/gate-core/javadoc/gate/Utils.html

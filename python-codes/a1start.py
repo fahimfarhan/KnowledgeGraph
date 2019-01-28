@@ -17,7 +17,7 @@ while (True):
         auth = OAuthHandler(ckey, csecret)
         auth.set_access_token(atoken, asecret)
 
-        WORDS = ["physics", "math","biology", "chemistry",
+        WORDS = ["bbc", "cnn","physics", "math","biology", "chemistry",
          "thenunmovie ", "QuantaMagazine","ZonePhysics",
         "ChemistryWorld","physorg_com","CompSciFact", "NASA","newscientist",
         "centerofmath","BdMOC","molecular","GenomeBiology","dailystarnews",
