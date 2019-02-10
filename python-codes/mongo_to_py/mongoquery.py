@@ -31,7 +31,7 @@ def mongodb_query():
                 print(""+str(j['text']) +" , ", end='')
             print('')
             # print(str(tw['hashtags']))
-            print("username: "+str(tw['username']))
+            # print("username: "+str(tw['username']))
             print(str(tw['_id'])+" : "+str(tw['text']))
             # print(str(tw['text']))
             print("}")

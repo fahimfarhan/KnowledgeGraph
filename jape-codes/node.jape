@@ -5,7 +5,9 @@ Options: control = appelt
 Rule: Node
 (
         ({  Token.category == NNP })
-   |    ({  Token.category == NN  })
+   |    ({  Token.category == NN , Token.kind != punctuation , Token.kind != symbol  })
+   |    ({  Token.category == NNS  })
+   
 ):match
 -->
 :match.node = { rule=Node, kind = NOUN  , mystring = :match.Token.string  }

@@ -1,7 +1,7 @@
 from mongo_to_py.mongoquery import mongodb_query
 
 tweets = mongodb_query()
-
+'''
 count = 0
 for tw in tweets:
 
@@ -14,3 +14,4 @@ for tw in tweets:
         f.close()
     except Exception as x:
         print(x)
+'''
