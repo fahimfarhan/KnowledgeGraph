@@ -7,7 +7,7 @@ import time
 def start(u,e,v,i):
     try:
         sparql = SPARQLWrapper("http://dbpedia.org/sparql")
-        sparql.setReturnFormat(CSV)
+        sparql.setReturnFormat(JSON)
         query = """PREFIX db: <http://dbpedia.org/resource/>
                     select distinct * where {
                     ?s ?o db:"""+str(u)+""" . 
@@ -23,7 +23,7 @@ def start(u,e,v,i):
         # for res in res_array:
         #     print(res)
         
-        s = "prototypeOutput/smartOutput_"+str(i)+".csv"    
+        s = "prototypeOutput/smartOutput_"+str(i)+".json"    
         fout = open(s, "w")
         for res in res_array:
             fout.write(str(res))
@@ -36,14 +36,14 @@ def start(u,e,v,i):
 
 
 if __name__ == "__main__":
-    #start('God', 'gave', 'Bible', 0)
-    #start('Barnes', 'calls', 'Australia', 1)
-    '''
+    start('God', 'gave', 'Bible', 0)
+    start('Barnes', 'calls', 'Australia', 1)
+    ''' 
     start('hydrogen', 'trains', 'future', 2)
     start('Brexit', 'giving', 'liars', 3)
     start('GrandPrix', 'trains', 'Maxico', 4)
-    '''
     start('concept', 'depicts', 'NASA', 5)
     start('client', 'trains', 'search', 6)
     start('Hennessy', 'accuses', 'Nicki', 7)
+    '''
     pass

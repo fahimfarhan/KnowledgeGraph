@@ -3,6 +3,7 @@
 
 from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF, CSV, TSV
 import time
+import json
 
 def my_geo_describe(location, i):
     try:
@@ -23,7 +24,8 @@ def my_geo_describe(location, i):
         s = "prototypeOutput/geo_"+str(i)+".json"    
         fout = open(s, "w")
         for res in res_array:
-            fout.write(str(res))
+            json.dump(res, fout, indent=4,separators=(',',':'))
+            # fout.write(str(res))
             fout.write("\n")
         # fout.write(str(result))
         fout.close()
@@ -37,7 +39,7 @@ def my_geo_describe(location, i):
 if __name__ == "__main__":
     #start('God', 'gave', 'Bible', 0)
     #start('Barnes', 'calls', 'Australia', 1)
-    my_geo_describe('dhaka', 0)
+    # my_geo_describe('dhaka', 0)
     my_geo_describe('Dhaka', 1)
     
     pass
