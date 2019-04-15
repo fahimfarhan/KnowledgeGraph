@@ -1,0 +1,10 @@
+0.15692766140418374 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Category:Interrogative_words_and_phrases
+
+0.19860543543310477 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/English_grammar
+
+0.16116766151222256 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/French_grammar
+
+----------------------------
+http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/English_grammar
+  :  0.19860543543310477
+Total runtime: 0:00:00:3.4530

@@ -1,0 +1,98 @@
+0.15692766140418374 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Category:Interrogative_words_and_phrases
+
+0.19860543543310477 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/English_grammar
+
+0.16116766151222256 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/French_grammar
+
+0.20000840407294612 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Pragmatics
+
+0.23671671345759956 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Socratic_method
+
+0.46689289070602236 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Theory
+
+0.2525630628836707 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Truth
+
+0.2177856015095182 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Verb
+
+0.3967489816167366 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Problem
+
+0.049807867643488664 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Open-ended_question
+
+0.049807867643488664 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Wh-fronting
+
+0.17997666369077 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Sutta_Pitaka
+
+0.2887922330327605 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Twenty_Questions
+
+0.16913164837753886 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Word_order
+
+0.3615605830854628 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Standard_Mandarin
+
+0.20673552904767234 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Five_Ws
+
+0.3305430716122937 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Information
+
+0.049807867643488664 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Phrasal_exclamation
+
+0.15692766140418374 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Tag_question
+
+0.13242333899288544 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Closed-ended_question
+
+0.24046735425373514 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Test_(assessment)
+
+0.035854871654017004 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Syntactic_structure
+
+0.14544326912297564 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Answer
+
+0.36405243104154544 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Category:Grammar
+
+0.3231485074097445 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Category:Human_communication
+
+0.5158491840437484 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Concept
+
+0.31032535764559527 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Cyrillic_script
+
+0.21543597846059334 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Euthanasia
+
+0.6035622611347364 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/French_language
+
+0.35000974811805213 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Gautama_Buddha
+
+0.5794220636947086 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/German_language
+
+0.2633225102772117 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Grammar
+
+0.20139147177624955 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Grammatical_tense
+
+0.5421922507397122 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Japanese_language
+
+0.22559013676410888 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Latin_alphabet
+
+0.12368573787891331 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Leading_question
+
+0.18497799780361004 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Loaded_question
+
+0.4252151166771013 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Norwegian_language
+
+0.48113409570113536 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Research
+
+0.24841330307659337 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Scientific_method
+
+0.6270148022479316 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Spanish_language
+
+0.23861006689419903 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Syntax
+
+0.21881015104098037 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/What_About_Bob%3F
+
+0.17997666369077 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Job_interview
+
+0.3744808321999919 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Leo_Tolstoy
+
+0.22120716795269985 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Kanzi
+
+0.18497799780361004 => http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Exam
+
+----------------------------
+http://dbpedia.org/data/The_Abbott,http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Spanish_language
+  :  0.6270148022479316
+Total runtime: 0:00:02:22.3568

@@ -1,0 +1,5 @@
+Select count(distinct ?Concept) where {[] a ?Concept}
+=
+369857
+
+reference = https://stackoverflow.com/questions/39175502/the-total-number-of-classes-and-properties-in-dbpedia

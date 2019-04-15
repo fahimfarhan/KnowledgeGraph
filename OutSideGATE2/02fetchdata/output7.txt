@@ -1,0 +1,98 @@
+0.2500944591754072 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Atom_(standard)
+
+0.18817515761556403 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Hot-melt_adhesive
+
+0.15473645372435266 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Mid-level_practitioner
+
+0.21543597846059334 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appleton,_Wisconsin
+
+0.30805241933379585 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appalachian_State_University
+
+0.2500944591754072 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Application_software
+
+0.2573203301901526 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Asbury_Park_Press
+
+0.049807867643488664 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/APP_(film)
+
+0.21180184459459303 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Acute-phase_protein
+
+0.12668611732492635 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Adjusted_Peak_Performance
+
+0.08261547134939684 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Advanced_Placement_Program
+
+0.18250939409534642 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/African_Prisons_Project
+
+0.09148564167240972 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Alan_Parsons_Project
+
+0.17868519264824603 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Alberta_Provincial_Police
+
+0.19807407369175148 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/American_Principles_Project
+
+0.20139147177624955 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Amyloid_precursor_protein
+
+0.1927825330582007 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Animal_Protection_Party
+
+0.049807867643488664 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Anticlerical_Progress_Party_REASON
+
+0.08434126221128302 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/App_(surname)
+
+0.28000208293436957 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appalachian_State_Mountaineers
+
+0.07785820404291496 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appleby_railway_station_(Cumbria)
+
+0.15933530566174073 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Application_Portability_Profile
+
+0.08434126221128302 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Apps_(surname)
+
+0.049807867643488664 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Asia-Pacific_Partnership
+
+0.049807867643488664 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Assessing_Pupils_Progress
+
+0.16720080036703794 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Associated_Press_of_Pakistan
+
+0.18061604065874695 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Association_of_Professional_Piercers
+
+0.20426692533940877 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Australian_Protectionist_Party
+
+0.2573203301901526 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Mobile_app
+
+0.29889711545993786 => http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Web_application
+
+0.2500944591754072 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Atom_(standard)
+
+0.18817515761556403 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Hot-melt_adhesive
+
+0.15473645372435266 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Mid-level_practitioner
+
+0.21543597846059334 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appleton,_Wisconsin
+
+0.30805241933379585 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appalachian_State_University
+
+0.2500944591754072 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Application_software
+
+0.2573203301901526 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Asbury_Park_Press
+
+0.049807867643488664 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/APP_(film)
+
+0.21180184459459303 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Acute-phase_protein
+
+0.12668611732492635 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Adjusted_Peak_Performance
+
+0.08261547134939684 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Advanced_Placement_Program
+
+0.18250939409534642 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/African_Prisons_Project
+
+0.09148564167240972 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Alan_Parsons_Project
+
+0.17868519264824603 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Alberta_Provincial_Police
+
+0.19807407369175148 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/American_Principles_Project
+
+0.20139147177624955 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Amyloid_precursor_protein
+
+0.1927825330582007 => http://dbpedia.org/data/Amazons_(disambiguation),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Animal_Protection_Party
+
+----------------------------
+http://dbpedia.org/data/Amazon_(film),http://dbpedia.org/ontology/wikiPageWikiLink,http://dbpedia.org/data/Appalachian_State_University
+  :  0.30805241933379585
+Total runtime: 0:00:02:45.4232
