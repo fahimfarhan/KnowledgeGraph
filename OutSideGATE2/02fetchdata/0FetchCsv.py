@@ -6,7 +6,8 @@ import time
 import re
 
 
-def getIntersectionTuples(u,v,i):
+def getIntersectionTuples(u,e,v,i):
+    input_str = str(u) + " , "+str(e) +" , " +str(v)
     try:
         sparql = SPARQLWrapper("http://dbpedia.org/sparql")
         sparql.setReturnFormat(CSV)
@@ -26,7 +27,7 @@ def getIntersectionTuples(u,v,i):
         s = "csv/tuple_"+str(i)+".csv"    
         fout = open(s, "w")
         for res in res_array:
-            fout.write(str(res))
+            fout.write(str(res)+" , "+str(input_str))
             fout.write("\n")
         fout.close()
     except Exception as x:
@@ -44,8 +45,9 @@ if __name__ == "__main__":
         try:
             wordList = re.sub("[^\w]", " ",  lines).split()
             u = wordList[0]
+            e = wordList[1]
             v = wordList[2]
-            getIntersectionTuples(u,v,lineCount)
+            getIntersectionTuples(u,e,v,lineCount)
             # print(u+" "+v)
         except:
             pass 

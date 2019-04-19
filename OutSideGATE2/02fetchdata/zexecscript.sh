@@ -1,7 +1,7 @@
 res1=$(date +%s.%N)
 
 # do stuff in here
-python 2inplementHeuristics.py
+python 5start.py
 
 res2=$(date +%s.%N)
 dt=$(echo "$res2 - $res1" | bc)
