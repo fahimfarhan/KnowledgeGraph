@@ -89,17 +89,11 @@ def getEnglishValue(urlRes, jsonData):
     count = 0
     try:
         a = jsonData[str(urlRes)]['http://www.w3.org/2000/01/rdf-schema#comment']
-        # print(a)
         for i in a:
-            if count == 10:
-                break
-            num = str(count)
             if i['lang'] == 'en':
                 ret = i['value']
                 # return ret1
                 break 
-            else:
-                count=count+1
     except:
         ret = "NOT FOUND"
         pass
@@ -140,7 +134,7 @@ def farcry(num):
         myStopLimit = 0
         for lines in fileContent:
             myStopLimit = myStopLimit+1 
-            if(myStopLimit == 5):
+            if(myStopLimit == 40):
                 break
             try:
                 originalLine = lines
@@ -165,4 +159,4 @@ def farcry(num):
     pass
 
 if __name__ == "__main__":
-    farcry(14)
+    farcry(1)
