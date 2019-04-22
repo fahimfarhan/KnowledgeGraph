@@ -42,6 +42,7 @@ if __name__ == "__main__":
      
     lineCount=0
     for lines in fileContent:
+        print(lineCount)
         try:
             wordList = re.sub("[^\w]", " ",  lines).split()
             u = wordList[0]

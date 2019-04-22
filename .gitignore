@@ -9,6 +9,7 @@ __pycache__/
 Ignore/
 corpus-experimental/
 corpus-saved-state/
+csv/
 
 # C extensions
 *.so
