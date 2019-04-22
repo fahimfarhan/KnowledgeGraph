@@ -10,6 +10,7 @@ Ignore/
 corpus-experimental/
 corpus-saved-state/
 csv/
+score/
 
 # C extensions
 *.so

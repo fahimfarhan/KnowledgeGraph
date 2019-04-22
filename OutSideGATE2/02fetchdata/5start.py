@@ -101,7 +101,7 @@ def getEnglishValue(urlRes, jsonData):
     return ret 
 
 
-def start(line, url1res, url2res, url1data, url2data):
+def start(line, url1res, url2res, url1data, url2data, num123):
     jsonDataA = getJson(url1data)
     jsonDataB = getJson(url2data)
 
@@ -111,9 +111,10 @@ def start(line, url1res, url2res, url1data, url2data):
     valueB = getEnglishValue(url2res, jsonDataB)
 
     vectorScoreAB = getVectorAnalysis(valueA, valueB)
-
+    writeLine = ""
     writeLine = str(relatednessScoreAB)+" ; "+str(vectorScoreAB)+" ; "+str(line)
-    fout = open("score.csv", "a") 
+    filename = "score/score_"+str(num123)+".csv"
+    fout = open(filename, "a") 
     fout.write(writeLine)
     # print(writeLine)
     fout.close()
@@ -127,6 +128,7 @@ def farcry(num):
         print("DEBUG "+str(i))
         filename = "csv/tuple_"+str(i)+".csv"
         file = open(filename,"r")
+        fileContent=""
         fileContent = file.readlines()
 
         maximus=-9999
@@ -149,7 +151,7 @@ def farcry(num):
                 B = wordList[2]
                 # print("DEBUG 3 befire start() func")
                 try:                
-                    start(originalLine, Ares, Bres, A,B)
+                    start(originalLine, Ares, Bres, A,B, num)
                 except:
                     pass
             except Exception as x:
@@ -159,4 +161,5 @@ def farcry(num):
     pass
 
 if __name__ == "__main__":
-    farcry(1)
+    for i in range(10):
+        farcry(i)
