@@ -124,7 +124,7 @@ def start(line, url1res, url2res, url1data, url2data, num123):
 def farcry(num):
     #print("DEBUG 1")
     #print("DEBUG ")
-    for i in range(num):
+    for i in range(num,(num+700)):
         print("DEBUG "+str(i))
         filename = "csv/tuple_"+str(i)+".csv"
         file = open(filename,"r")
@@ -151,7 +151,7 @@ def farcry(num):
                 B = wordList[2]
                 # print("DEBUG 3 befire start() func")
                 try:                
-                    start(originalLine, Ares, Bres, A,B, num)
+                    start(originalLine, Ares, Bres, A,B, i)
                 except:
                     pass
             except Exception as x:
@@ -161,5 +161,5 @@ def farcry(num):
     pass
 
 if __name__ == "__main__":
-    for i in range(10):
-        farcry(i)
+    #for i in range(10):
+        farcry(172)
